@@ -67,20 +67,29 @@ All sentences are stored in `app/data.json`. The structure looks like this:
 
 ## How to Add Sentences from a New PDF
 
-If you have a new PDF with Tamil-English sentence pairs, use this extraction script.
+If you have a new PDF (same format as the existing "English with Cheeni" PDFs), use this extraction script.
+
+### Why Not Simple Text Extraction?
+
+These PDFs use the **Nirmala UI** font with a broken `ToUnicode` CMap. Six Tamil characters are mapped to wrong Unicode codepoints:
+
+| Wrong output | Correct character |
+|---|---|
+| ெ (vowel sign) | ச (consonant) |
+| ை (vowel sign) | ம (consonant) |
+| ொ (vowel sign) | ா (vowel sign) |
+| ச (consonant) | ெ (vowel sign) |
+| ற (consonant) | ே (vowel sign) |
+| ய (consonant) | ை (vowel sign) |
+
+The script below fixes the CMap in memory, re-extracts text, and reorders pre-base vowel signs from visual order to Unicode order.
 
 ### One-Time Setup
 
 ```bash
 python3 -m venv /tmp/pdfenv
 source /tmp/pdfenv/bin/activate
-pip install pymupdf pytesseract pdfplumber
-```
-
-You also need Tesseract OCR with Tamil support:
-
-```bash
-brew install tesseract tesseract-lang
+pip install pymupdf
 ```
 
 ### Extraction Script
@@ -89,55 +98,121 @@ Save this as `extract_pdf.py` in the project root and run it:
 
 ```bash
 source /tmp/pdfenv/bin/activate
-python3 extract_pdf.py 6.pdf
+python3 extract_pdf.py 6.pdf 6
 ```
 
 ```python
 """
 Extract Tamil-English sentence pairs from a PDF.
-Uses OCR for Tamil text and PDF text extraction for English.
+Fixes the broken ToUnicode CMap in Nirmala UI font, then extracts clean text.
 
-Usage: python3 extract_pdf.py <pdf_file> [book_number]
+Usage: python3 extract_pdf.py <pdf_file> <book_number>
 Example: python3 extract_pdf.py 6.pdf 6
 """
 
 import sys
 import pymupdf
-import pytesseract
-import pdfplumber
-from PIL import Image
-import io
 import re
 import json
 
+
+def fix_cmap(cmap_text):
+    """Fix 6 wrong character mappings in the Nirmala UI ToUnicode CMap."""
+    # CID 0B79: ெ(0BC6) → ச(0B9A)
+    cmap_text = re.sub(
+        r"(<0B77>\s+<0B7[9A]>\s+\[<0B95>\s+<0B99>\s+)<0BC6>",
+        r"\g<1><0B9A>",
+        cmap_text,
+    )
+    # CID 0B82: ை(0BC8) → ம(0BAE)
+    cmap_text = re.sub(
+        r"<0B82>\s+<0B82>\s+\[<0BC8>\]",
+        "<0B82> <0B82> [<0BAE>]",
+        cmap_text,
+    )
+    # CID 0B8F: ொ(0BCA) → ா(0BBE)
+    cmap_text = re.sub(
+        r"<0B8F>\s+<0B8F>\s+\[<0BCA>\]",
+        "<0B8F> <0B8F> [<0BBE>]",
+        cmap_text,
+    )
+    # CIDs 0B96-0B98: [ச,ற,ய] → [ெ,ே,ை]
+    cmap_text = re.sub(
+        r"<0B96>\s+<0B98>\s+\[<0B9A>\s+<0BB1>\s+<0BAF>\]",
+        "<0B96> <0B98> [<0BC6> <0BC7> <0BC8>]",
+        cmap_text,
+    )
+    return cmap_text
+
+
+def reorder_tamil(text):
+    """Reorder pre-base vowel signs (ெ, ே, ை) from visual to Unicode order.
+    Also combine: ெ+consonant+ா → consonant+ொ, ே+consonant+ா → consonant+ோ
+    """
+    tamil_consonants = set("கஙசஞடணதநனபமயரறலளழவஷஸஹஜ")
+    result = list(text)
+    i = 0
+    while i < len(result) - 1:
+        ch = result[i]
+        next_ch = result[i + 1]
+        if ch in ("ெ", "ே", "ை") and next_ch in tamil_consonants:
+            result[i] = next_ch
+            result[i + 1] = ch
+            if i + 2 < len(result) and result[i + 2] == "ா":
+                if ch == "ெ":
+                    result[i + 1] = "ொ"
+                    result.pop(i + 2)
+                elif ch == "ே":
+                    result[i + 1] = "ோ"
+                    result.pop(i + 2)
+            i += 2
+        else:
+            i += 1
+    return "".join(result)
+
+
+def find_nirmala_cmap_xref(doc):
+    """Find the ToUnicode CMap xref for Nirmala UI font."""
+    for xref in range(1, doc.xref_length()):
+        try:
+            obj = doc.xref_object(xref)
+            if "Nirmala" in obj and "ToUnicode" in obj:
+                m = re.search(r"/ToUnicode\s+(\d+)\s+0\s+R", obj)
+                if m:
+                    return int(m.group(1))
+        except Exception:
+            pass
+    return None
+
+
 def extract_from_pdf(filename):
     doc = pymupdf.open(filename)
-    total_pages = len(doc)
+
+    cmap_xref = find_nirmala_cmap_xref(doc)
+    if cmap_xref is None:
+        print("WARNING: Nirmala UI CMap not found. Tamil text may be wrong.")
+    else:
+        cmap_bytes = doc.xref_stream(cmap_xref)
+        cmap_text = cmap_bytes.decode("utf-8", errors="replace")
+        fixed_cmap = fix_cmap(cmap_text)
+        doc.update_stream(cmap_xref, fixed_cmap.encode("utf-8"))
+
     sentences = []
+    total_pages = len(doc)
 
-    for page_idx in range(1, total_pages):  # Skip first page (intro)
+    for page_idx in range(1, total_pages):
         page = doc[page_idx]
-
-        # Render page as image for OCR (3x zoom for quality)
-        mat = pymupdf.Matrix(3, 3)
-        pix = page.get_pixmap(matrix=mat)
-        img = Image.open(io.BytesIO(pix.tobytes("png")))
-
-        # OCR with Tamil + English
-        text = pytesseract.image_to_string(img, lang="tam+eng", config="--psm 6")
-
+        text = page.get_text()
         lines = [l.strip() for l in text.split("\n") if l.strip()]
+        if lines and lines[0].isdigit():
+            lines = lines[1:]
         lines = [l for l in lines if not re.match(r"^\d{1,3}$", l)]
 
         i = 0
         while i < len(lines) - 1:
-            line = lines[i]
-            has_tamil = any("\u0B80" <= c <= "\u0BFF" for c in line)
-
+            has_tamil = any("\u0B80" <= c <= "\u0BFF" for c in lines[i])
             if has_tamil:
-                tamil_line = line.replace("\u200c", "").replace("\u200d", "")
-                tamil_line = re.sub(r"\s+", " ", tamil_line).strip()
-
+                tamil_line = lines[i]
                 english_parts = []
                 j = i + 1
                 while j < len(lines):
@@ -145,20 +220,22 @@ def extract_from_pdf(filename):
                         break
                     english_parts.append(lines[j])
                     j += 1
-
                 if english_parts:
-                    english_line = " ".join(english_parts)
-                    english_line = english_line.replace("| ", "I ")
-                    english_line = re.sub(r"\|([a-zA-Z])", r"I\1", english_line)
-                    english_line = re.sub(r"\s+", " ", english_line).strip()
-
-                    tamil_chars = sum(1 for c in tamil_line if "\u0B80" <= c <= "\u0BFF")
-                    if tamil_chars >= 3 and len(english_line) >= 3:
-                        sentences.append({
-                            "id": len(sentences) + 1,
-                            "tamil": tamil_line,
-                            "english": english_line,
-                        })
+                    english = " ".join(english_parts)
+                    english = re.sub(r"\s+\d{1,2}$", "", english).strip()
+                    tamil_fixed = reorder_tamil(tamil_line)
+                    tamil_fixed = re.sub(r"\s+", " ", tamil_fixed).strip()
+                    tamil_chars = sum(
+                        1 for c in tamil_fixed if "\u0B80" <= c <= "\u0BFF"
+                    )
+                    if english and not english.isdigit() and tamil_chars >= 3:
+                        sentences.append(
+                            {
+                                "id": len(sentences) + 1,
+                                "tamil": tamil_fixed,
+                                "english": english,
+                            }
+                        )
                     i = j
                 else:
                     i += 1
@@ -166,64 +243,26 @@ def extract_from_pdf(filename):
                 i += 1
 
     doc.close()
-
-    # Try to replace English with cleaner PDF extraction
-    english_from_pdf = []
-    with pdfplumber.open(filename) as pdf:
-        for page_idx, page in enumerate(pdf.pages):
-            if page_idx == 0:
-                continue
-            text = page.extract_text()
-            if not text:
-                continue
-            plines = [l.strip() for l in text.split("\n") if l.strip()]
-            if plines and plines[0].isdigit():
-                plines = plines[1:]
-            k = 0
-            while k < len(plines):
-                if any("\u0B80" <= c <= "\u0BFF" for c in plines[k]):
-                    eng_parts = []
-                    m = k + 1
-                    while m < len(plines):
-                        if any("\u0B80" <= c <= "\u0BFF" for c in plines[m]):
-                            break
-                        eng_parts.append(plines[m])
-                        m += 1
-                    if eng_parts:
-                        eng = " ".join(eng_parts)
-                        eng = re.sub(r"\s+\d{1,2}$", "", eng).strip()
-                        if eng and not eng.isdigit():
-                            english_from_pdf.append(eng)
-                    k = m
-                else:
-                    k += 1
-
-    if len(sentences) == len(english_from_pdf):
-        for k in range(len(sentences)):
-            sentences[k]["english"] = english_from_pdf[k]
-        print(f"Replaced English with PDF extraction (cleaner)")
-
     return sentences
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python3 extract_pdf.py <pdf_file> [book_number]")
+    if len(sys.argv) < 3:
+        print("Usage: python3 extract_pdf.py <pdf_file> <book_number>")
+        print("Example: python3 extract_pdf.py 6.pdf 6")
         sys.exit(1)
 
     pdf_file = sys.argv[1]
-    book_num = sys.argv[2] if len(sys.argv) > 2 else pdf_file.replace(".pdf", "")
+    book_num = sys.argv[2]
 
     print(f"Extracting from {pdf_file}...")
     sentences = extract_from_pdf(pdf_file)
     print(f"Extracted {len(sentences)} sentences")
 
-    # Show first 3 for verification
     for s in sentences[:3]:
         print(f"  {s['id']}. {s['tamil']}")
         print(f"     {s['english']}")
 
-    # Load existing data and add new book
     data_path = "app/data.json"
     with open(data_path, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -240,7 +279,8 @@ if __name__ == "__main__":
 
 ## Important Notes
 
-- The PDF extraction uses OCR for Tamil text because these PDFs have a broken font encoding. Direct text extraction gives wrong Tamil characters.
-- OCR may produce small errors in a few sentences. Review the output and fix manually if needed.
-- The website auto-detects all `bookN` keys in `data.json`. No code change is needed when adding books.
+- These PDFs have a **broken font encoding** (Nirmala UI ToUnicode CMap). The script fixes it in memory before extracting.
+- No OCR needed — the fix happens at the PDF level, so extraction is fast and accurate.
+- The website auto-detects all `bookN` keys in `data.json`. No code change needed when adding books.
 - Learned progress is saved in the browser's localStorage. Adding new sentences won't affect existing progress.
+- Only `pymupdf` is needed as a dependency (no Tesseract/OCR required).
