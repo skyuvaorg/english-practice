@@ -1,0 +1,4882 @@
+{
+  "book1": [
+    {
+      "id": 1,
+      "tamil": "கொஞ்சம் தண்ணி கொண்டு வா.",
+      "english": "Bring some water."
+    },
+    {
+      "id": 2,
+      "tamil": "LIST- ல வேற என்ன இருக்கு- ன்னு சொல்லு.",
+      "english": "Tell me what else is on the list."
+    },
+    {
+      "id": 3,
+      "tamil": "அப்பாவி மாரி நடிக்காத.",
+      "english": "Don’t pretend to be innocent."
+    },
+    {
+      "id": 4,
+      "tamil": "தூறல் SIMSEALGO இருக்கு.",
+      "english": "It is drizzling."
+    },
+    {
+      "id": 5,
+      "tamil": "உங்க ட்ட 2000 ரூபாய்க்கு Flovm இருக்குங்ளா?",
+      "english": "Do you have change for Rs2000?"
+    },
+    {
+      "id": 6,
+      "tamil": "உனக்கு வேற எதாவது வேணுமா?",
+      "english": "Do you want anything else?"
+    },
+    {
+      "id": 7,
+      "tamil": "எனக்கு இன்னைக்கு SCHOOL இல்ல.",
+      "english": "I have no school today."
+    },
+    {
+      "id": 8,
+      "tamil": "எனக்கு ஒரு CUP TEA கொண்டு வா.",
+      "english": "Get me a cup of tea."
+    },
+    {
+      "id": 9,
+      "tamil": "வேற என்ன நடந்துச்சி?",
+      "english": "What else happened?"
+    },
+    {
+      "id": 10,
+      "tamil": "வேற ஒன்னும் நடக்கல.",
+      "english": "Nothing else happened."
+    },
+    {
+      "id": 11,
+      "tamil": "நான் உன்ன மன்னிக்கவே மாட்டேன்.",
+      "english": "I will never forgive you."
+    },
+    {
+      "id": 12,
+      "tamil": "நீ எப்புடிப்பட்ட ஆளு-ன்னு எனக்கு தெரியும்.",
+      "english": "I know what kind of person you are."
+    },
+    {
+      "id": 13,
+      "tamil": "அவர் Fly வயதிலேயே இறந்துவிட்டார்.",
+      "english": "He died at a young age."
+    },
+    {
+      "id": 14,
+      "tamil": "உண்மைய பேசுறது குத்தமா?",
+      "english": "Is it an offence to speak the truth?"
+    },
+    {
+      "id": 15,
+      "tamil": "உன்ன கஷ்டபடுத்துற எதையும் நான் செய்ய மாட்டேன்.",
+      "english": "I won't do anything that hurts you."
+    },
+    {
+      "id": 16,
+      "tamil": "இதபத்தி வேற யாருக்கட்டயாவது சொன்னியா?",
+      "english": "Have you told anyone else about this?"
+    },
+    {
+      "id": 17,
+      "tamil": "பாத்தது இல்ல.",
+      "english": "I have heard so much about him, but never seen him till now."
+    },
+    {
+      "id": 18,
+      "tamil": "எனக்கு ப௫க்கல. அப்றமா சாப்ட்டுக்குறேன்.",
+      "english": "I don’t feel hungry. I will eat later."
+    },
+    {
+      "id": 19,
+      "tamil": "நிச்சயமாக இல்லை.",
+      "english": "Of course not."
+    },
+    {
+      "id": 20,
+      "tamil": "இன்னைக்கு காலைல உங்கள யாரோ பாக்க வந்தாங்க.",
+      "english": "Somebody came to see you this morning."
+    },
+    {
+      "id": 21,
+      "tamil": "என்னால நாளைக்கு வர முடியாது.",
+      "english": "I can't come tomorrow."
+    },
+    {
+      "id": 22,
+      "tamil": "நீ பண்றது சரியில்ல.",
+      "english": "What you are doing is not right."
+    },
+    {
+      "id": 23,
+      "tamil": "இதை எவ்வளவுக்கு வாங்இனாய்?",
+      "english": "For how much did you buy this?"
+    },
+    {
+      "id": 24,
+      "tamil": "நாளைக்கு நான் FREE-WTSHM6oT இருப்பேன்.",
+      "english": "I'll be free tomorrow."
+    },
+    {
+      "id": 25,
+      "tamil": "எப்பதான் இந்த நிலைமை எல்லாம் சரியாக போகுதோ?",
+      "english": "When is everything going to be normal?"
+    },
+    {
+      "id": 26,
+      "tamil": "வேற யாரையாவது கேட்டுப்பாருங்க.",
+      "english": "Please ask someone else."
+    },
+    {
+      "id": 27,
+      "tamil": "இந்த சாலை குறுகலாக உள்ளது.",
+      "english": "This road is narrow."
+    },
+    {
+      "id": 28,
+      "tamil": "என்னோட ரெண்டு கண்ணால பாத்தேன்.",
+      "english": "I saw it with my own eyes."
+    },
+    {
+      "id": 29,
+      "tamil": "நான் அவளை காதலிக்கிறேன் ஆனால் அவள் வேறு யாரையோ காதலிக்இறாள்.",
+      "english": "I love her, but she loves someone else."
+    },
+    {
+      "id": 30,
+      "tamil": "நடந்தது என்னவோ நடந்து போச்௪ி.அதப்பத்து நாம பேச வேணாமே.",
+      "english": "Past is past. Let us not talk about that now."
+    },
+    {
+      "id": 31,
+      "tamil": "இப்ப ௦ங௦ஈ௦₹-லாம் சாதரணமாயிடுச்.",
+      "english": "Divorce has become common these days."
+    },
+    {
+      "id": 32,
+      "tamil": "உண்மைய சொல்லு என்இட்ட இருந்து எதையும் மறைக்காத.",
+      "english": "Tell me the truth. Don’t hide anything from me."
+    },
+    {
+      "id": 33,
+      "tamil": "என்னோட பொறுமைய CGFETHSSTS.",
+      "english": "Don’t test my patience."
+    },
+    {
+      "id": 34,
+      "tamil": "இதனால்தான் அங்கு நீ சென்றாய். THIS IS WHY - இதனால்தான்",
+      "english": "This is why you went there."
+    },
+    {
+      "id": 35,
+      "tamil": "இதுக்குதான் அங்க போனியா?",
+      "english": "Is this why you went there?"
+    },
+    {
+      "id": 36,
+      "tamil": "அவரு மாசம் எவ்ளோ FuUNTGHS Mm?",
+      "english": "How much does he earn per month?"
+    },
+    {
+      "id": 37,
+      "tamil": "அவர் மாதத்துற்கு ₹30,000 சம்பாதிக்கிறார்.",
+      "english": "He earns ₹30,000 per month."
+    },
+    {
+      "id": 38,
+      "tamil": "நான் நாளைக்கு வர மாட்டேன்.",
+      "english": "I won't come tomorrow."
+    },
+    {
+      "id": 39,
+      "tamil": "நான் நெனச்சேன் நீ சொல்லிட்ட.",
+      "english": "You have spoken my mind."
+    },
+    {
+      "id": 40,
+      "tamil": "ஏன் என்னோட வாழ்க்கைய கெடுக்குற?",
+      "english": "Why are you ruining my life?"
+    },
+    {
+      "id": 41,
+      "tamil": "என்ன சாப்பிட போறாய்?",
+      "english": "What are you going to have?"
+    },
+    {
+      "id": 42,
+      "tamil": "இங்க நெறைய பேரு இருக்காங்க. வா வேற எங்கயாச்சும் போவோம்.",
+      "english": "There are too many people here. Let’s go somewhere else."
+    },
+    {
+      "id": 43,
+      "tamil": "நான் அங்கே போய்த்தான் ஆகணும். வேற வழி இல்ல.",
+      "english": "I have to go there. There is no other go."
+    },
+    {
+      "id": 44,
+      "tamil": "அவரு நாளைக்கு ஈஈஈ₹ஈ-யாதான் இருப்பாரு.",
+      "english": "He will be free tomorrow."
+    },
+    {
+      "id": 45,
+      "tamil": "நான்-லாம் உனக்கு யாரு?",
+      "english": "Who am I to you?"
+    },
+    {
+      "id": 46,
+      "tamil": "அவன் என்ன சொன்னாலும் சரி கம்முன்னு இரு.",
+      "english": "No matter what he says, keep calm."
+    },
+    {
+      "id": 47,
+      "tamil": "வர்றதுக்கு முன்னால CALL பண்ணிட்டு வா.",
+      "english": "Call me before you come."
+    },
+    {
+      "id": 48,
+      "tamil": "உனக்கு தேவைப்படும்போது சொல்லு.",
+      "english": "Tell me when you need it."
+    },
+    {
+      "id": 49,
+      "tamil": "இது கொஞ்சம் விலை அதிகமா இருக்கு இல்ல?",
+      "english": "It’s a bit expensive, isn’t it?"
+    },
+    {
+      "id": 50,
+      "tamil": "COFFEE ஆறி போச்௪.",
+      "english": "The coffee has turned cold."
+    },
+    {
+      "id": 51,
+      "tamil": "நான் யாரையும் புண்படுத்இனது இல்ல.",
+      "english": "I have never offended anyone."
+    },
+    {
+      "id": 52,
+      "tamil": "இத யாரு செஞ்சாங்கன்னு எங்க எல்லாருக்கும் தெரியும்.",
+      "english": "We all know who did it."
+    },
+    {
+      "id": 53,
+      "tamil": "உனக்கு வேறு என்ன தேவை?",
+      "english": "What else do you need?"
+    },
+    {
+      "id": 54,
+      "tamil": "ஏன் தேவ இல்லாம பிரச்சன பண்ற?",
+      "english": "Why are you creating unnecessary issue?"
+    },
+    {
+      "id": 55,
+      "tamil": "நீ யாரா இருந்தாலும் எனக்கு கவலை இல்ல.",
+      "english": "I don’t care whoever you are."
+    },
+    {
+      "id": 56,
+      "tamil": "இது ஒடஞ்ி இருக்கு.",
+      "english": "It is damaged."
+    },
+    {
+      "id": 57,
+      "tamil": "இந்த மாஇரி பேசாத.",
+      "english": "Don’t talk like this."
+    },
+    {
+      "id": 58,
+      "tamil": "நாளைக்கு நீ வருவியா?",
+      "english": "Will you come tomorrow?"
+    },
+    {
+      "id": 59,
+      "tamil": "எனக்கு உன்னோட உதவி வேணும்.",
+      "english": "I need your help."
+    },
+    {
+      "id": 60,
+      "tamil": "2eoALL நான் நிறைய தடவ கேட்டுட்டேன்.",
+      "english": "I have asked you many times."
+    },
+    {
+      "id": 61,
+      "tamil": "உன்னப் பத்து மட்டுமே யோ௫க்காத.",
+      "english": "Don’t think only of yourself."
+    },
+    {
+      "id": 62,
+      "tamil": "நான் நாளைக்கு உனக்கு CALL பண்றேன்.",
+      "english": "I'll call you tomorrow."
+    },
+    {
+      "id": 63,
+      "tamil": "நான் எதையும் கேக்க விரும்பல.",
+      "english": "I don’t want to hear anything."
+    },
+    {
+      "id": 64,
+      "tamil": "போன வாரம் நீங்க ஊர்ல இல்லையா?",
+      "english": "Were you out of town last week?"
+    },
+    {
+      "id": 65,
+      "tamil": "எனக்கு இன்னும் மூணு வாரம் இருக்கு.",
+      "english": "I have three more weeks."
+    },
+    {
+      "id": 66,
+      "tamil": "அவங்க நினைக்குறது எல்லாம் நடக்காது.",
+      "english": "Everything they think won’t happen."
+    },
+    {
+      "id": 67,
+      "tamil": "போக போக உனக்கு பழஇரும்.",
+      "english": "You will get used to it."
+    },
+    {
+      "id": 68,
+      "tamil": "நாளைக்கு லீவு.",
+      "english": "Tomorrow is a holiday."
+    },
+    {
+      "id": 69,
+      "tamil": "நீ நினைப்பது போல் அவன் நல்லவன் இல்லை.",
+      "english": "He is not such an honest person as you think."
+    },
+    {
+      "id": 70,
+      "tamil": "நீ வேற எதுவும் சொல்லாத.",
+      "english": "Don't say anything else."
+    },
+    {
+      "id": 71,
+      "tamil": "உனக்கு இருக்குற அதே பிரச்சனைதான் எனக்கும்.",
+      "english": "My problem is the same as yours."
+    },
+    {
+      "id": 72,
+      "tamil": "நான் நல்லா சமைப்பேன்.",
+      "english": "I am good at cooking."
+    },
+    {
+      "id": 73,
+      "tamil": "அப்றம்..... வேற என்ன சொன்னான் அவன்?",
+      "english": "So, what else did he tell you?"
+    },
+    {
+      "id": 74,
+      "tamil": "அப்றம் வேற என்ன சொன்னா அவ?",
+      "english": "So, what else did she tell you?"
+    },
+    {
+      "id": 75,
+      "tamil": "நான் சொல்றத நீ நம்பமாட்ட-ன்னு எனக்கு தெரியும்.",
+      "english": "I know you won’t believe what I say."
+    },
+    {
+      "id": 76,
+      "tamil": "வரிசையில நில்லு.",
+      "english": "Stand in the queue."
+    },
+    {
+      "id": 77,
+      "tamil": "உன்னோட LIFE-6V முன்னேறனும்னு உனக்கு ஆசையே இல்லையா?",
+      "english": "Don’t you want to come up in life?"
+    },
+    {
+      "id": 78,
+      "tamil": "அவரு வருவாரா இல்லையா-ன்னு எனக்கு தெரியாது.",
+      "english": "I don’t know whether he will come or not."
+    },
+    {
+      "id": 79,
+      "tamil": "எனக்கு நாளைக்கு TEST இருக்கு.",
+      "english": "I have a test tomorrow."
+    },
+    {
+      "id": 80,
+      "tamil": "என்னால வேற எதுவும் செய்ய செய்ய முடியாது.",
+      "english": "There is nothing else I can do."
+    },
+    {
+      "id": 81,
+      "tamil": "உங்கள இங்க நான் பாப்பேன்னு நினைச்சு கூட பாக்கல.",
+      "english": "I never thought that I would see you here."
+    },
+    {
+      "id": 82,
+      "tamil": "அவரு வர வரைக்கும் இங்க WAIT பண்ணு.",
+      "english": "Wait here until he comes."
+    },
+    {
+      "id": 83,
+      "tamil": "எனக்கு இன்னும் UA SSSI.",
+      "english": "I am still hungry."
+    },
+    {
+      "id": 84,
+      "tamil": "ஒன்னு வாய மூடிட்டு இரு இல்ல-ன்னா வெளிய போ.",
+      "english": "Either keep quiet or get out."
+    },
+    {
+      "id": 85,
+      "tamil": "நாளைக்கு என்னோட BIRTHDAY.",
+      "english": "Tomorrow is my birthday."
+    },
+    {
+      "id": 86,
+      "tamil": "நாளைக்கு அவனோட BIRTHDAY.",
+      "english": "Tomorrow is his birthday."
+    },
+    {
+      "id": 87,
+      "tamil": "நாளைக்கு அவளோட BIRTHDAY.",
+      "english": "Tomorrow is her birthday."
+    },
+    {
+      "id": 88,
+      "tamil": "நீ ரொம்ப பொய் சொல்ற.",
+      "english": "You are telling lies a lot."
+    },
+    {
+      "id": 89,
+      "tamil": "நாளைக்கு காலைல என்ன 5 மணிக்கு எழுப்பி விடுங்க.",
+      "english": "Please wake me up at 5:00 tomorrow morning."
+    },
+    {
+      "id": 90,
+      "tamil": "உன்னோட PHONE-9j கொஞ்ச நேரம் கொடு.",
+      "english": "Give me your phone for a while."
+    },
+    {
+      "id": 91,
+      "tamil": "எத வச்சு உன்ன நம்புறது?",
+      "english": "How can I trust you?"
+    },
+    {
+      "id": 92,
+      "tamil": "நான் உங்கள பத்து நெறைய கேகள்விப்பட்ருக்கேன்.",
+      "english": "I have heard a lot about you."
+    },
+    {
+      "id": 93,
+      "tamil": "உள்ள யாரும் இல்ல.",
+      "english": "Nobody inside."
+    },
+    {
+      "id": 94,
+      "tamil": "அந்த ௦ஈ₹55-அ போட்டு பாத்தியா?",
+      "english": "Did you try that dress on?"
+    },
+    {
+      "id": 95,
+      "tamil": "அவன் சொல்றதையெல்லாம் என்னால செய்ய முடியாது.",
+      "english": "I can’t do everything he says."
+    },
+    {
+      "id": 96,
+      "tamil": "அவன் வந்தாலும் வர்லனாலும் நான் போகத்தான் போறேன்.",
+      "english": "Whether he comes or not, I’ll definitely go."
+    },
+    {
+      "id": 97,
+      "tamil": "எனக்கு நல்லா ஞாபகம் இருக்கு.",
+      "english": "I remember it very well."
+    },
+    {
+      "id": 98,
+      "tamil": "நீ உன்னபத்து என்ன நெனச்ூட்டு இருக்க?",
+      "english": "What do you think of yourself?"
+    },
+    {
+      "id": 99,
+      "tamil": "இதெல்லாம் உன்னோட வேலைதானா?",
+      "english": "Is this all your doing?"
+    },
+    {
+      "id": 100,
+      "tamil": "எத்தன தடவ?",
+      "english": "How many times?"
+    },
+    {
+      "id": 101,
+      "tamil": "இந்த சட்டைய போட்டு பாரு.",
+      "english": "Try this shirt on."
+    },
+    {
+      "id": 102,
+      "tamil": "யாரோ கதவ தட்றாங்க.போயி யாருன்னு பாரு.",
+      "english": "Somebody is knocking at the door. Go and see who it is."
+    },
+    {
+      "id": 103,
+      "tamil": "இத செய்ய வேணாம்னு சொன்னதே நீதான்.",
+      "english": "You are the one who told me not to do this."
+    },
+    {
+      "id": 104,
+      "tamil": "நெனைக்காத.",
+      "english": "Don’t think you are very clever and we don’t know anything."
+    },
+    {
+      "id": 105,
+      "tamil": "ஏதோ ஒன்னு தப்பா இருக்கு.",
+      "english": "Something is wrong."
+    },
+    {
+      "id": 106,
+      "tamil": "உனக்கு இன்னைக்கு SCHOOL-4,?",
+      "english": "Do you have school today?"
+    },
+    {
+      "id": 107,
+      "tamil": "உனக்கு இன்னைக்கு SCHOOL இல்ல?",
+      "english": "Don’t you have school today?"
+    },
+    {
+      "id": 108,
+      "tamil": "அவன் கேக்குறதையெல்லாம் என்னால செய்ய முடியாது.",
+      "english": "I can’t do everything he asks."
+    },
+    {
+      "id": 109,
+      "tamil": "போன வாரம் நான் ஊர்ல இல்ல. இன்னைக்கு காலைலதான் திரும்பி வந்தேன்.",
+      "english": "Last week I was out of town. I was back only this morning."
+    },
+    {
+      "id": 110,
+      "tamil": "இந்த விஷயத்த பத்து சாப்ட்டதுக்கு அப்றம் பே௫ுக்குவோம்.",
+      "english": "We will discuss the matter after lunch."
+    },
+    {
+      "id": 111,
+      "tamil": "BIKE-94 LOCK பண்ண மறந்துட்டேன்.",
+      "english": "I forgot to lock the bike."
+    },
+    {
+      "id": 112,
+      "tamil": "அவன் இட்ட என்னபத்து வேற என்ன சொன்ன?",
+      "english": "What else have you told him about me?"
+    },
+    {
+      "id": 113,
+      "tamil": "அவூட்ட என்னபத்து வேற என்ன சொன்ன?",
+      "english": "What else have you told her about me?"
+    },
+    {
+      "id": 114,
+      "tamil": "அப்டிதான் நான் நெனச்சேன்.",
+      "english": "I thought so."
+    },
+    {
+      "id": 115,
+      "tamil": "இன்னைக்கு லீவு.",
+      "english": "Today is a holiday."
+    },
+    {
+      "id": 116,
+      "tamil": "அத விட இது நல்லா இருக்கு.",
+      "english": "This is better than that."
+    },
+    {
+      "id": 117,
+      "tamil": "இப்ப இல்லன்னாலும் கூடிய €க்இரம் நீ புரிஞ்சுக்குவ.",
+      "english": "Sooner or later, you will understand it."
+    },
+    {
+      "id": 118,
+      "tamil": "எனக்கு அதெல்லாம் பழ௫போயிடுச்.",
+      "english": "I am used to that."
+    },
+    {
+      "id": 119,
+      "tamil": "அவனுக்கு அதெல்லாம் பழ௫இபோயிடுச்௪.",
+      "english": "He is used to that."
+    },
+    {
+      "id": 120,
+      "tamil": "எங்களுக்கு அதெல்லாம் பழஇிபோயிடுச்௪.",
+      "english": "We are used to that."
+    },
+    {
+      "id": 121,
+      "tamil": "இந்த விஷயம் உன்னோட WIFE-S&G தெரியுமா?",
+      "english": "Does your wife know this matter?"
+    },
+    {
+      "id": 122,
+      "tamil": "இந்த விஷயம் உன்னோட அப்பாவுக்கு தெரியுமா?",
+      "english": "Does your dad know this matter?"
+    },
+    {
+      "id": 123,
+      "tamil": "உன் ட்ட நான் இப்ப பேசுற ௩௦௦௦-ல இல்ல.",
+      "english": "I am not in a mood to talk to you."
+    },
+    {
+      "id": 124,
+      "tamil": "அவூட்ட நான் இப்ப பேசுற ॥௦௦௦-ல இல்ல.",
+      "english": "I am not in a mood to talk to her."
+    },
+    {
+      "id": 125,
+      "tamil": "அவ என்ன புரிஞ்சிக்கிற மாதுரி தெரியல.",
+      "english": "She doesn’t seem to understand me."
+    },
+    {
+      "id": 126,
+      "tamil": "அவன் என்ன புரிஞ்௪க்கிற மாஇரி தெரியல.",
+      "english": "He doesn’t seem to understand me."
+    },
+    {
+      "id": 127,
+      "tamil": "நீ என்னிடம் சொல்லி இருந்திருக்க வேண்டும்.",
+      "english": "You should have told me."
+    },
+    {
+      "id": 128,
+      "tamil": "வேற என்ன உனக்கு வேணும்?",
+      "english": "What else do you want?"
+    },
+    {
+      "id": 129,
+      "tamil": "உங்க பையனுக்கு வயசு எத்தன?",
+      "english": "How old is your son?"
+    },
+    {
+      "id": 130,
+      "tamil": "6ப5-அ MISS பண்ணிட்டியா?",
+      "english": "Did you miss the bus?"
+    },
+    {
+      "id": 131,
+      "tamil": "ஆறு மாசத்துக்கு முன்னாடியே சிகரெட் புடிக்கிறத விட்டுட்டேன்.",
+      "english": "I quit smoking six months ago."
+    },
+    {
+      "id": 132,
+      "tamil": "கொடுத்த £மாடக்குள்ள என்னால அத முடிக்க முடியல.",
+      "english": "I couldn’t finish it within the given time."
+    },
+    {
+      "id": 133,
+      "tamil": "அவர ரெண்டு மாசமா நான் பாக்கவே இல்ல.",
+      "english": "I haven't seen him for two months."
+    },
+    {
+      "id": 134,
+      "tamil": "இட்டத்தட்ட ஒரு ரெண்டு மாசமா அவர நான் பாக்கவே இல்ல.",
+      "english": "I haven't seen him for about 2 months."
+    },
+    {
+      "id": 135,
+      "tamil": "நாளைக்கு காலைல என்ன எழுப்ப மறந்துடாத.",
+      "english": "Don't forget to wake me up tomorrow morning."
+    },
+    {
+      "id": 136,
+      "tamil": "அத செய்யறதுக்கு முன்னாடி sor இட்ட கேட்டியா?",
+      "english": "Did you ask me before doing it?"
+    },
+    {
+      "id": 137,
+      "tamil": "நான் இன்னைக்கு இல்லன்னா நாளைக்கு போவேன்.",
+      "english": "I will go either today or tomorrow."
+    },
+    {
+      "id": 138,
+      "tamil": "உனக்கு HOMEWORK இல்ல?",
+      "english": "Don't you have homework?"
+    },
+    {
+      "id": 139,
+      "tamil": "நீ என்னோட 1ஙபம-ங்கறதால சொல்றேன்.",
+      "english": "I am telling you this since you are my friend."
+    },
+    {
+      "id": 140,
+      "tamil": "நீ எங்க போனாலும் உன்ன விடமாட்டேன்.",
+      "english": "No matter where you go, I won’t leave you."
+    },
+    {
+      "id": 141,
+      "tamil": "எனக்கு கொஞ்சம் முக்கியமான வேல இருக்கு.",
+      "english": "I have some important work."
+    },
+    {
+      "id": 142,
+      "tamil": "வேற யாரு அங்க இருக்கா?",
+      "english": "Who else is there?"
+    },
+    {
+      "id": 143,
+      "tamil": "பாத்து பேசு.",
+      "english": "Watch your words."
+    },
+    {
+      "id": 144,
+      "tamil": "பிறவியில இருந்தே அவருக்கு கண்பார்வ இல்ல.",
+      "english": "He is blind from birth."
+    },
+    {
+      "id": 145,
+      "tamil": "என்ன இங்க வர சொன்னதே நீதான்.",
+      "english": "It was you who told me to come here."
+    },
+    {
+      "id": 146,
+      "tamil": "அது அங்கயும் இல்ல இங்கயும் இல்ல.",
+      "english": "That is neither here nor there."
+    },
+    {
+      "id": 147,
+      "tamil": "வேற யாராலயாவது பதில் சொல்ல முடியுமா?",
+      "english": "Can anybody else answer?"
+    },
+    {
+      "id": 148,
+      "tamil": "அன்னைக்கு நான் LEAVE-6v இருந்தேன்.",
+      "english": "I was on leave on that day."
+    },
+    {
+      "id": 149,
+      "tamil": "அவர் விடுப்பில் இருக்கிறார்.",
+      "english": "He is on leave."
+    },
+    {
+      "id": 150,
+      "tamil": "அதுல இருந்து என்னால வெளிய வர முடியல.",
+      "english": "I can’t get out of it."
+    },
+    {
+      "id": 151,
+      "tamil": "வீட்டுக்கு போனவுடனே எனக்கு CALL பண்ணு.",
+      "english": "Call me as soon as you reach home."
+    },
+    {
+      "id": 152,
+      "tamil": "என்ன நச்சரிக்காத.",
+      "english": "Don't nag me."
+    },
+    {
+      "id": 153,
+      "tamil": "உங்க அப்பாவ கூப்புடு.",
+      "english": "Call your dad."
+    },
+    {
+      "id": 154,
+      "tamil": "என்னோட 5காப5-அ பாத்தியா?",
+      "english": "Did you see my status?"
+    },
+    {
+      "id": 155,
+      "tamil": "உன்னோட 5காப5-அ நான் பாக்கல.",
+      "english": "I didn’t see your status today."
+    },
+    {
+      "id": 156,
+      "tamil": "வழக்கமா இந்த நேரத்துல TRAFFIC அதிகமா இருக்கும்.",
+      "english": "There is usually a lot of traffic at this time."
+    },
+    {
+      "id": 157,
+      "tamil": "இத நான் பண்ணல.",
+      "english": "I didn't do this."
+    },
+    {
+      "id": 158,
+      "tamil": "எவ்ளோ தையிரியம் இருந்தா என்மேல கைய வப்ப?",
+      "english": "How dare you touch me?"
+    },
+    {
+      "id": 159,
+      "tamil": "ஏன் றிக்குற?",
+      "english": "Why are you standing?"
+    },
+    {
+      "id": 160,
+      "tamil": "இவனுக்கு எப்புடி புரியவைக்கறதுன்னே தெரியல.",
+      "english": "I don't know how to make him understand."
+    },
+    {
+      "id": 161,
+      "tamil": "இவளுக்கு எப்புடி புரியவைக்கறதுன்னே தெரியல.",
+      "english": "I don't know how to make her understand."
+    },
+    {
+      "id": 162,
+      "tamil": "உனக்கு எப்புடி புரிய வைக்கறதுன்னே தெரியல.",
+      "english": "I don't know how to make you understand."
+    },
+    {
+      "id": 163,
+      "tamil": "எப்ப வரைக்கும்?",
+      "english": "Until when?"
+    },
+    {
+      "id": 164,
+      "tamil": "என்ன தப்பா எடுத்துக்காஇுங்க.",
+      "english": "Don't mistake me."
+    },
+    {
+      "id": 165,
+      "tamil": "ஒருவேள இது உண்மையா இருக்கலாம்.",
+      "english": "This may be true."
+    },
+    {
+      "id": 166,
+      "tamil": "எல்லாருமே நல்லா பண்ணாங்க.",
+      "english": "Everyone did well."
+    },
+    {
+      "id": 167,
+      "tamil": "அவளோட STATUS-9] நான் பாக்குறதே இல்ல.",
+      "english": "I never see her status."
+    },
+    {
+      "id": 168,
+      "tamil": "அவனோட STATUS-9] நான் பாக்குறதே இல்ல.",
+      "english": "I never see his status."
+    },
+    {
+      "id": 169,
+      "tamil": "உனக்கு ஞாபகம் இருக்கா?",
+      "english": "Do you remember?"
+    },
+    {
+      "id": 170,
+      "tamil": "நீ எப்பயுமே ONLINE-CUS Moor இருக்க.",
+      "english": "You are always online."
+    },
+    {
+      "id": 171,
+      "tamil": "கண்ணாடி எங்க இருக்கு?",
+      "english": "Where is the mirror?"
+    },
+    {
+      "id": 172,
+      "tamil": "இந்த வழியா வா.",
+      "english": "Come this way."
+    },
+    {
+      "id": 173,
+      "tamil": "யாரு என்ன செய்யறாங்க-ன்னு பாக்குறேன்.",
+      "english": "I will see who does what."
+    },
+    {
+      "id": 174,
+      "tamil": "ஏன் கேக்குற?",
+      "english": "Why do you ask?"
+    },
+    {
+      "id": 175,
+      "tamil": "எனக்கு ஒன்னும் HHUSS) இல்ல.",
+      "english": "I am not satisfied."
+    },
+    {
+      "id": 176,
+      "tamil": "அவரு இன்னைக்கு வந்தாலும் வரலாம்.",
+      "english": "He might come today."
+    },
+    {
+      "id": 177,
+      "tamil": "என்ன வேணும் உனக்கு? எதுக்கு இங்க நிக்குற?",
+      "english": "What do you want? Why are you standing here?"
+    },
+    {
+      "id": 178,
+      "tamil": "இத நான் எஇுர்பாக்கல.",
+      "english": "I didn't expect this."
+    },
+    {
+      "id": 179,
+      "tamil": "என்னோட STATUS-9| பாரேன்.",
+      "english": "Have a look at my status."
+    },
+    {
+      "id": 180,
+      "tamil": "எதையோ மறந்துட்டேன்-னு நெனைக்குறேன்.",
+      "english": "I think I forgot something."
+    },
+    {
+      "id": 181,
+      "tamil": "இதையாச்சும் செய்.",
+      "english": "Do this at least."
+    },
+    {
+      "id": 182,
+      "tamil": "வேற யாருக்கும் இது தெரியாது.",
+      "english": "No one else knows it."
+    },
+    {
+      "id": 183,
+      "tamil": "கதவ தெறந்தே வை.",
+      "english": "Keep the door open."
+    },
+    {
+      "id": 184,
+      "tamil": "கதவ தெறந்து வைக்காத.",
+      "english": "Don’t keep the door open."
+    },
+    {
+      "id": 185,
+      "tamil": "நான் கண்ண தெற-ன்னு சொல்ற வரைக்கும் கண்ண மூடியே us SH.",
+      "english": "Keep your eyes closed until I ask you to open."
+    },
+    {
+      "id": 186,
+      "tamil": "வேற யாராவது அங்க இருக்காங்களா?",
+      "english": "Is anybody else there?"
+    },
+    {
+      "id": 187,
+      "tamil": "இன்னும் நீ அங்கதான் இருக்இயா?",
+      "english": "Are you still there?"
+    },
+    {
+      "id": 188,
+      "tamil": "எனக்கு தல வலிக்குது.",
+      "english": "I have a headache."
+    },
+    {
+      "id": 189,
+      "tamil": "உன்னோட வயசுல எனக்கு ஒரு பையன் இருக்கான்.",
+      "english": "I have a son your age."
+    },
+    {
+      "id": 190,
+      "tamil": "உன்னோட வயசுல எனக்கு ஒரு பொண்ணு இருக்கு.",
+      "english": "I have a daughter your age."
+    },
+    {
+      "id": 191,
+      "tamil": "அவளே ரொம்ப கோவமா இருந்தா.",
+      "english": "She was so angry."
+    },
+    {
+      "id": 192,
+      "tamil": "அவனே ரொம்ப கோவமா இருந்தான்.",
+      "english": "He was so angry."
+    }
+  ],
+  "book2": [
+    {
+      "id": 1,
+      "tamil": "உங்களுக்கு இருமணமாூ எவ்வளவு நாட்கள் ஆஒஇறது?",
+      "english": "How long have you been married?"
+    },
+    {
+      "id": 2,
+      "tamil": "அத நீ tToOABLL விட்ரு. நான் எல்லாத்தையும் பாத்துக்குறேன்.",
+      "english": "You just leave it to me. I will take care of everything."
+    },
+    {
+      "id": 3,
+      "tamil": "எனக்கு கொஞ்சம் பதட்டமா இருக்கு.",
+      "english": "I am a bit nervous."
+    },
+    {
+      "id": 4,
+      "tamil": "மற்றவர்களை பற்றி தவறாக பேசாதே.",
+      "english": "Don’t speak ill of others."
+    },
+    {
+      "id": 5,
+      "tamil": "என் மீது சாயாதே.",
+      "english": "Don’t lean on me."
+    },
+    {
+      "id": 6,
+      "tamil": "எங்கே செல்வது என்ன செய்வது என்று எனக்கு தெரியவில்லை.",
+      "english": "I don’t know where to go, or what to do."
+    },
+    {
+      "id": 7,
+      "tamil": "தம்பியை வழி அனுப்ப வந்தேன்.",
+      "english": "I came to see my brother off."
+    },
+    {
+      "id": 8,
+      "tamil": "இப்பொழுது நான் என்ன செய்ய வேண்டும் என சொல்.",
+      "english": "Tell me what I should do now."
+    },
+    {
+      "id": 9,
+      "tamil": "நான் இங்க இருக்குறேன்-னு உனக்கு எப்புடி தெரியும்?",
+      "english": "How do you know that I am here?"
+    },
+    {
+      "id": 10,
+      "tamil": "உன்னோட வீடு எங்க இருக்கு-ன்னு எனக்கு தெரியாது.",
+      "english": "I don’t know where your house is."
+    },
+    {
+      "id": 11,
+      "tamil": "எங்க இருந்து ஆரம்பிக்கறது-ன்னு கூட எனக்கு தெரியல.",
+      "english": "I don’t even know where to start."
+    },
+    {
+      "id": 12,
+      "tamil": "என்ன?....உன் இட்ட கெஞ்சுவேன்-ன்னு நெனச்௪யா?",
+      "english": "Did you think that I would beg you?"
+    },
+    {
+      "id": 13,
+      "tamil": "எங்க இருந்து START பண்றது-ன்னு எனக்கு தெரியல.",
+      "english": "I don’t know where to start."
+    },
+    {
+      "id": 14,
+      "tamil": "மற்றவர்களை சார்ந்து வாழாதே.",
+      "english": "Don’t depend upon others."
+    },
+    {
+      "id": 15,
+      "tamil": "அவரு எங்க போனாரு-ன்னு எனக்கு தெரியாது.",
+      "english": "I don’t know where he went."
+    },
+    {
+      "id": 16,
+      "tamil": "அத அங்க வை. அப்றமா நான் சாப்ப்டுக்குறேன்.",
+      "english": "Keep it there. I will have it later."
+    },
+    {
+      "id": 17,
+      "tamil": "அவளுக்கு எப்புடி ஆறுதல் சொல்றதுன்னே எனக்கு தெரியல.",
+      "english": "I don’t know how to console him."
+    },
+    {
+      "id": 18,
+      "tamil": "எப்ப-ன்னு எனக்கு சரியா ஞாபகம் இல்ல.",
+      "english": "I don’t remember exactly when."
+    },
+    {
+      "id": 19,
+      "tamil": "அடிக்கடி நெட்டி முறிக்காத.",
+      "english": "Don’t crack your knuckles often."
+    },
+    {
+      "id": 20,
+      "tamil": "அவசரப்பட தேவ இல்ல.",
+      "english": "There is no need to hurry."
+    },
+    {
+      "id": 21,
+      "tamil": "கவலைப்பட தேவை இல்லை",
+      "english": "There is no need to worry."
+    },
+    {
+      "id": 22,
+      "tamil": "உன்னால முடிஞ்சத செய். கவலைப்படாத.",
+      "english": "Do your best and don’t worry."
+    },
+    {
+      "id": 23,
+      "tamil": "நீ எப்பயாவது சரியான நேரத்துக்கு வந்துருக்இயா?",
+      "english": "Have you ever come on time?"
+    },
+    {
+      "id": 24,
+      "tamil": "மத்தவங்க என்ன சொல்லுவாங்க-ன்னு நெனச்௪-லாம் கவலைப்படாத.",
+      "english": "Don’t worry about what others say."
+    },
+    {
+      "id": 25,
+      "tamil": "சீக்கரம், இல்லன்னா நாம BUS -அ MISS பண்ணிருவோம்.",
+      "english": "Hurry up, or we will miss the bus."
+    },
+    {
+      "id": 26,
+      "tamil": "தெரியாது.",
+      "english": "That is mine. I don’t know where his is."
+    },
+    {
+      "id": 27,
+      "tamil": "அது என்னோடது. அவளோடது எங்க இருக்கு-ன்னு எனக்கு தெரியாது.",
+      "english": "That is mine. I don’t know where hers is."
+    },
+    {
+      "id": 28,
+      "tamil": "கவலைப்படாத நான் யாருக்கஇட்டயும் சொல்ல மாட்டேன்.",
+      "english": "Don’t worry. I won’t tell anyone."
+    },
+    {
+      "id": 29,
+      "tamil": "உன் இட்ட இத எப்புடி சொல்றதுன்னே தெரியல.",
+      "english": "I don’t know how to tell you this."
+    },
+    {
+      "id": 30,
+      "tamil": "அவன் இட்ட இத எப்புடி சொல்றதுன்னே தெரியல.",
+      "english": "I don’t know how to tell him about this."
+    },
+    {
+      "id": 31,
+      "tamil": "அங்க நிக்கறதுக்கு கூட இடம் இல்லை.",
+      "english": "There is no room even to stand there."
+    },
+    {
+      "id": 32,
+      "tamil": "என்ன கொடும இது?",
+      "english": "What the hell is this?"
+    },
+    {
+      "id": 33,
+      "tamil": "நீ எடுத்த முடிவுல உறுதியா இரு.",
+      "english": "Stick to your decision."
+    },
+    {
+      "id": 34,
+      "tamil": "நீ கவலைப்படாத. நான் உனக்கு HELP பண்றேன்.",
+      "english": "Don’t worry. I will help you."
+    },
+    {
+      "id": 35,
+      "tamil": "நீ எங்க போனாலும் நானும் உன்கூட வருவேன்.",
+      "english": "I will come wherever you go."
+    },
+    {
+      "id": 36,
+      "tamil": "எனக்கு காய்ச்சலா இருக்கு.",
+      "english": "I am feeling feverish."
+    },
+    {
+      "id": 37,
+      "tamil": "நான் அதுக்கு பொறுப்பு இல்ல.",
+      "english": "I am not responsible for that."
+    },
+    {
+      "id": 38,
+      "tamil": "நான் பேசும்போது அமைஇயா இரு.",
+      "english": "Be quiet while I am speaking."
+    },
+    {
+      "id": 39,
+      "tamil": "நான் TNPSC EXAM-&G படிச்சிட்டு இருக்கேன்.",
+      "english": "I am preparing for TNPSC exam."
+    },
+    {
+      "id": 40,
+      "tamil": "எனக்கு கொஞ்சம் யோ௫க்க TIME கொடு.",
+      "english": "Give me some time to think."
+    },
+    {
+      "id": 41,
+      "tamil": "என்ன மாதுரி யாரும் கஷ்டப்படக்கூடாது.",
+      "english": "Nobody should suffer like me."
+    },
+    {
+      "id": 42,
+      "tamil": "அவன் கையும் களவுமா மாட்டிக்கட்டான்.",
+      "english": "He was caught red handed."
+    },
+    {
+      "id": 43,
+      "tamil": "இந்தா நீ கேட்ட WATCH.",
+      "english": "Here is the watch you asked for."
+    },
+    {
+      "id": 44,
+      "tamil": "உன் இட்ட உண்மைய சொன்னேன். அது தப்பா?",
+      "english": "I told you the truth. Was it wrong?"
+    },
+    {
+      "id": 45,
+      "tamil": "என்ன பண்ணனும்னு DECIDE பண்ணிட்டியா?",
+      "english": "Have you decided what to do?"
+    },
+    {
+      "id": 46,
+      "tamil": "நாம இத சும்மா விட கூடாது.",
+      "english": "We should not let it go."
+    },
+    {
+      "id": 47,
+      "tamil": "இதுதான் வீட்டுக்கு வர நேரமா?",
+      "english": "Is this the time to come home?"
+    },
+    {
+      "id": 48,
+      "tamil": "நான் ஒன்னும் உன்ன LOTS)! இல்ல.",
+      "english": "I am not like you."
+    },
+    {
+      "id": 49,
+      "tamil": "உன்ன எனக்கு புடிக்கல.",
+      "english": "I don’t like you."
+    },
+    {
+      "id": 50,
+      "tamil": "மத்தவங்க இட்ட சொல்லிராத.",
+      "english": "Don’t tell others."
+    },
+    {
+      "id": 51,
+      "tamil": "அவன் வெளிநாடு செல்வகஇுல் தீர்க்கமாக இருக்இறான்.",
+      "english": "He is bent on going abroad."
+    },
+    {
+      "id": 52,
+      "tamil": "எனக்கு ஒன்னும் ஆட்சேயபணை இல்ல.",
+      "english": "I have no objection."
+    },
+    {
+      "id": 53,
+      "tamil": "எதுக்கு கோவப்பட்ற?",
+      "english": "Why are you getting angry?"
+    },
+    {
+      "id": 54,
+      "tamil": "ஏன் இந்த மாஇரி பேசுற?",
+      "english": "Why are you speaking like this?"
+    },
+    {
+      "id": 55,
+      "tamil": "இவன எங்க இருந்து புடிச்ச?",
+      "english": "Where did you get him from?"
+    },
+    {
+      "id": 56,
+      "tamil": "சுத்து வளச்சு பேசாத.",
+      "english": "Don’t beat around the bush."
+    },
+    {
+      "id": 57,
+      "tamil": "உனக்கு இது வேணுமா இல்ல அது வேணுமா?",
+      "english": "Do you want this one or that one?"
+    },
+    {
+      "id": 58,
+      "tamil": "போய் தொல.",
+      "english": "Get lost."
+    },
+    {
+      "id": 59,
+      "tamil": "அவரு இன்னும் வரல.",
+      "english": "He has not come yet."
+    },
+    {
+      "id": 60,
+      "tamil": "அவ இன்னும் வரல.",
+      "english": "She has not come yet."
+    },
+    {
+      "id": 61,
+      "tamil": "முதலில் நீ உன்னை நம்பு.",
+      "english": "First of all believe in yourself."
+    },
+    {
+      "id": 62,
+      "tamil": "என்னால அத நம்ப முடியல.",
+      "english": "I can’t believe that."
+    },
+    {
+      "id": 63,
+      "tamil": "அதப்பத்து நெனச்௪ கூட பாக்காத.",
+      "english": "Don’t even think about it."
+    },
+    {
+      "id": 64,
+      "tamil": "எனக்கு உக்கார கூட TIME இல்ல.",
+      "english": "I don’t have time even to sit."
+    },
+    {
+      "id": 65,
+      "tamil": "நான் COMPETITIVE EXAMS-&G படிச்சிட்டு இருக்கேன்.",
+      "english": "I am preparing for competitive exams."
+    },
+    {
+      "id": 66,
+      "tamil": "அவனுக்கு ஆறுதல் கூறு.",
+      "english": "Console him."
+    },
+    {
+      "id": 67,
+      "tamil": "ஏ...சும்மா விளையாண்டேன்.",
+      "english": "I was just kidding."
+    },
+    {
+      "id": 68,
+      "tamil": "வேற யாரையாவது கேட்டு பாரு.",
+      "english": "Ask someone else."
+    },
+    {
+      "id": 69,
+      "tamil": "குழந்தை மாதுரி பேசாதே.",
+      "english": "Don’t talk like a child."
+    },
+    {
+      "id": 70,
+      "tamil": "எனக்கு அவர நல்லா தெரியும்.",
+      "english": "I know him very well."
+    },
+    {
+      "id": 71,
+      "tamil": "பொய் சொல்றது உனக்கு HELP பண்ண போறது இல்ல.",
+      "english": "Lying is not going to help you."
+    },
+    {
+      "id": 72,
+      "tamil": "உன்னப்பத்து அவன் என்ன சொன்னான் தெரியுமா?",
+      "english": "Do you know what he said about you?"
+    },
+    {
+      "id": 73,
+      "tamil": "அதை பற்றி நினைக்கும்போது, எனக்கே என்மேல் கோபம் வருஇறது.",
+      "english": "When I think about it, I get angry at myself."
+    },
+    {
+      "id": 74,
+      "tamil": "நீங்க சொல்ற மாதுரி செய்யுறேன்.",
+      "english": "I will do as you say."
+    },
+    {
+      "id": 75,
+      "tamil": "அத ஏற்கனவே உன் ூட்ட நான் கொடுத்துட்டேன்.",
+      "english": "I already gave it to you."
+    },
+    {
+      "id": 76,
+      "tamil": "தெரியாம SLbsIGEFS.",
+      "english": "It was done by mistake."
+    },
+    {
+      "id": 77,
+      "tamil": "என்னோட கண்ணையே என்னால நம்ப முடியல.",
+      "english": "I can’t believe my eyes."
+    },
+    {
+      "id": 78,
+      "tamil": "எனக்கு எப்புடி பேசனும்னே தெரியல.",
+      "english": "I don’t know how to talk."
+    },
+    {
+      "id": 79,
+      "tamil": "நடந்தத நெனச்சா கஷ்டமா இருக்கு.",
+      "english": "I feel sad about what happened."
+    },
+    {
+      "id": 80,
+      "tamil": "நான் கேட்டதுல எந்த தப்பும் இல்ல.",
+      "english": "There is nothing wrong in what I asked."
+    },
+    {
+      "id": 81,
+      "tamil": "சாப்புடும்போது தண்ணி அஇுகமா குடிக்காத.",
+      "english": "Don’t drink too much water while eating."
+    },
+    {
+      "id": 82,
+      "tamil": "நான் அவன நம்பவே மாட்டேன்.",
+      "english": "I won’t believe him at all."
+    },
+    {
+      "id": 83,
+      "tamil": "எனக்கு இருட்டு-ன்னா பயம்.",
+      "english": "I am afraid of the dark."
+    },
+    {
+      "id": 84,
+      "tamil": "அவன் MEDIUM-9,607 உயரத்துல இருப்பான்.",
+      "english": "He is of medium height."
+    },
+    {
+      "id": 85,
+      "tamil": "இந்த படத்த நான் ஏற்கனவே பாத்துட்டேன்.",
+      "english": "I have already seen this movie."
+    },
+    {
+      "id": 86,
+      "tamil": "உனக்கு இது தேவதான். (கோபமாக)",
+      "english": "You deserve this."
+    },
+    {
+      "id": 87,
+      "tamil": "WTHSALL இருந்தும் எதையும் TH TUTSSTS.",
+      "english": "Don’t expect anything from anyone."
+    },
+    {
+      "id": 88,
+      "tamil": "erooT GeorITL. BOOK-9] யாராவது பாத்தீங்களா?",
+      "english": "Has anyone seen my book? (OR) Did anyone see my book?"
+    },
+    {
+      "id": 89,
+      "tamil": "இது ஒன்னும் பெரிய விஷயம் இல்ல.",
+      "english": "It is not a big deal."
+    },
+    {
+      "id": 90,
+      "tamil": "இப்ப உனக்கு LATE ஆகலையா?",
+      "english": "Is it not getting late now?"
+    },
+    {
+      "id": 91,
+      "tamil": "நான் அத ஏதோ ஒரு கோவத்துல சொல்லி இருக்கலாம்.",
+      "english": "I might have said it in anger."
+    },
+    {
+      "id": 92,
+      "tamil": "இப்ப எல்லாம் வாழ்க்கையே ஒட்றதே ரொம்ப கஷ்டமா இருக்கு.",
+      "english": "It is hard to survive these days."
+    },
+    {
+      "id": 93,
+      "tamil": "உன்னோட உதவி எனக்கு தேவ.",
+      "english": "I need your help."
+    },
+    {
+      "id": 94,
+      "tamil": "உன்டட்ட சொல்றதுக்கு நெறைய விஷயம் இருக்கு.",
+      "english": "I have so many things to tell you."
+    },
+    {
+      "id": 95,
+      "tamil": "காலையில என்ன கொஞ்சம் €¢SEl71on எழுப்பி விடு.",
+      "english": "Wake me up early in the morning."
+    },
+    {
+      "id": 96,
+      "tamil": "நடந்ததையே நெனச்௫ட்டு இருக்காத.",
+      "english": "Don’t keep thinking about what happened."
+    },
+    {
+      "id": 97,
+      "tamil": "நான் மாடியில் இருக்இறேன்.",
+      "english": "I am upstairs."
+    },
+    {
+      "id": 98,
+      "tamil": "அவன் எதுவுமே செய்யல.",
+      "english": "He did nothing."
+    },
+    {
+      "id": 99,
+      "tamil": "நம்மளால எதையுமே ரொம்ப நாளைக்கு மறைக்க முடியாது.",
+      "english": "We can’t hide anything for long."
+    },
+    {
+      "id": 100,
+      "tamil": "நான் சொல்ற மாரி எழுது.",
+      "english": "Write as I say."
+    },
+    {
+      "id": 101,
+      "tamil": "இடத்த காலி பண்ணு.",
+      "english": "Vacate the place."
+    },
+    {
+      "id": 102,
+      "tamil": "உண்மை தெரியாம பேசாத.",
+      "english": "Don’t speak without knowing the fact."
+    },
+    {
+      "id": 103,
+      "tamil": "உன்டட்ட ஒரு முக்கியமான விஷயத்த சொல்ல மறந்துட்டேன்.",
+      "english": "I forgot to tell you an important matter."
+    },
+    {
+      "id": 104,
+      "tamil": "உன்டட்ட இல்ற இருக்கா?",
+      "english": "Do you have change?"
+    },
+    {
+      "id": 105,
+      "tamil": "என்ன கோவப்படுத்தாத.",
+      "english": "Don't make me angry."
+    },
+    {
+      "id": 106,
+      "tamil": "யாரையும் கேவலமா நெனைக்காத.",
+      "english": "Never despise anyone."
+    },
+    {
+      "id": 107,
+      "tamil": "எனக்கே என்மேல கோவமா இருக்கு.",
+      "english": "I am angry at myself."
+    },
+    {
+      "id": 108,
+      "tamil": "படம் நல்லா இருந்துச்சா?",
+      "english": "Was the movie good?"
+    },
+    {
+      "id": 109,
+      "tamil": "என்னால வேற என்ன பண்ண முடியும்?",
+      "english": "What else can I do?"
+    },
+    {
+      "id": 110,
+      "tamil": "TEA ரொம்ப சூடா இருக்கு.",
+      "english": "The tea is very hot."
+    },
+    {
+      "id": 111,
+      "tamil": "15 TRY Licvorevurev-coTeoT IT உன்னால ஜெயக்கவே முடியாது.",
+      "english": "Unless you try, you will never win."
+    },
+    {
+      "id": 112,
+      "tamil": "அவரு என்ன எதுவுமே செய்ய விட்றது இல்ல.",
+      "english": "He doesn’t let me do anything. (OR) He lets me do nothing."
+    },
+    {
+      "id": 113,
+      "tamil": "எவ்ளோ நாள் ஊர்ல இருப்பீங்க?",
+      "english": "How long will you be in town?"
+    },
+    {
+      "id": 114,
+      "tamil": "நீ அடிக்கடி மறந்துட்ற.",
+      "english": "You often forget."
+    },
+    {
+      "id": 115,
+      "tamil": "அவன் சொன்னதையெல்லாம் மனசுல UFHSSTS.",
+      "english": "Don’t mind his words."
+    },
+    {
+      "id": 116,
+      "tamil": "யாரு கூட போற?",
+      "english": "Who are you going with?"
+    },
+    {
+      "id": 117,
+      "tamil": "முந்தாநேத்து-தான் வந்தேன்.",
+      "english": "I just came the day before yesterday."
+    },
+    {
+      "id": 118,
+      "tamil": "அடுத்தவங்கள பாத்து Hlsars.",
+      "english": "Don't laugh at others."
+    },
+    {
+      "id": 119,
+      "tamil": "நீங்க விஷயத்துக்கு வாங்க.",
+      "english": "Please get to the point."
+    },
+    {
+      "id": 120,
+      "tamil": "எல்லாம் உன்னாலதான்.",
+      "english": "It is all because of you."
+    },
+    {
+      "id": 121,
+      "tamil": "போறதும் போகாததும் உன்னோட இஷ்டம்.",
+      "english": "It’s up to you whether to go or not."
+    },
+    {
+      "id": 122,
+      "tamil": "ரொம்ப பேசாத.",
+      "english": "Don't talk too much."
+    },
+    {
+      "id": 123,
+      "tamil": "அவள பத்இ பேசாத.",
+      "english": "Don't talk about her."
+    },
+    {
+      "id": 124,
+      "tamil": "அவன பத்து பேசாத.",
+      "english": "Don't talk about him."
+    },
+    {
+      "id": 125,
+      "tamil": "என்ன நடந்துச்சி-ன்னு சொல்லு.",
+      "english": "Tell me what happened."
+    },
+    {
+      "id": 126,
+      "tamil": "முதலில் என்னை CUTASS விடு.",
+      "english": "Let me think first."
+    },
+    {
+      "id": 127,
+      "tamil": "யாரோ உன்ன (அ) உங்களை கூப்புட்றாங்க.",
+      "english": "Someone is calling you."
+    },
+    {
+      "id": 128,
+      "tamil": "சமைத்துக்கொண்டு இருக்கிறேன்.",
+      "english": "I am cooking."
+    },
+    {
+      "id": 129,
+      "tamil": "என்டிட்ட பேச மாட்டியா?",
+      "english": "Won't you talk to me?"
+    },
+    {
+      "id": 130,
+      "tamil": "அது ஒன்னும் உங்க தப்பு இல்ல.",
+      "english": "It was not your fault."
+    },
+    {
+      "id": 131,
+      "tamil": "கத்துரத HOSS போறியா இல்லையா?",
+      "english": "Are you going to stop yelling or not?"
+    },
+    {
+      "id": 132,
+      "tamil": "பொய் சொல்றத உன் ட்ட இருந்துதான் கத்துக்கணும்.",
+      "english": "One should learn the art of lying from you."
+    },
+    {
+      "id": 133,
+      "tamil": "இதான் ௦110₹-க்கு வர நேரமா?",
+      "english": "Is this the time to come to the office?"
+    },
+    {
+      "id": 134,
+      "tamil": "இதான் 50400டக்கு வர நேரமா?",
+      "english": "Is this the time to come to the school?"
+    },
+    {
+      "id": 135,
+      "tamil": "இத யாரு எழுதுனா?",
+      "english": "Who wrote this?"
+    },
+    {
+      "id": 136,
+      "tamil": "உனக்கு யாரு INFORM பண்ணது?",
+      "english": "Who informed you?"
+    },
+    {
+      "id": 137,
+      "tamil": "உன்னோட வேலைல SUTIN OFMYISSI.",
+      "english": "Concentrate on your work."
+    },
+    {
+      "id": 138,
+      "tamil": "உன்னோட படிப்புல கவனம் செலுத்து.",
+      "english": "Concentrate on your studies."
+    },
+    {
+      "id": 139,
+      "tamil": "யார் முதலில் வந்தது?",
+      "english": "Who came first?"
+    },
+    {
+      "id": 140,
+      "tamil": "நான் 8ப5-ல வந்தேன்.",
+      "english": "I came by bus."
+    },
+    {
+      "id": 141,
+      "tamil": "எனக்கு அவன புடிக்கவே இல்ல.",
+      "english": "I don’t like him at all."
+    },
+    {
+      "id": 142,
+      "tamil": "உன் மீது நான் கோபமாக இருக்இறேன்.",
+      "english": "I am angry with you."
+    },
+    {
+      "id": 143,
+      "tamil": "FREE - WIT இருக்கீங்களா? (அ) FREE — WT இருக்இயா?",
+      "english": "Are you free?"
+    },
+    {
+      "id": 144,
+      "tamil": "இது வெறும் வதந்தி.",
+      "english": "It is just a rumour."
+    },
+    {
+      "id": 145,
+      "tamil": "என்ன எப்புடி உங்களுக்கு தெரியும்?",
+      "english": "How do you know me?"
+    },
+    {
+      "id": 146,
+      "tamil": "இன்னும் ரெண்டு நாள்தான் இருக்கு.",
+      "english": "Only two more days left."
+    },
+    {
+      "id": 147,
+      "tamil": "அங்க நீ போனியா இல்லையா?",
+      "english": "Did you go there or not?"
+    },
+    {
+      "id": 148,
+      "tamil": "ஒரு கட்டத்துல நான் றிதானத்த இழந்துட்டேன்.",
+      "english": "At some point l lost my temper."
+    },
+    {
+      "id": 149,
+      "tamil": "நான் யார் என்று உனக்கு புரிய வைக்இறேன்.",
+      "english": "I’ll make you understand who really I am."
+    },
+    {
+      "id": 150,
+      "tamil": "அவங்களோட பொண்ணு மா௫ரியே என்ன பாத்துக்குறாங்க.",
+      "english": "They look after me like I am one of their daughters."
+    },
+    {
+      "id": 151,
+      "tamil": "சும்மா கற்பன பண்ணி பாரேன்.",
+      "english": "Just imagine it."
+    },
+    {
+      "id": 152,
+      "tamil": "கடன் வாங்காதே.",
+      "english": "Don't borrow."
+    },
+    {
+      "id": 153,
+      "tamil": "கடன் கொடுக்காதே.",
+      "english": "Don't lend."
+    },
+    {
+      "id": 154,
+      "tamil": "நான் எந்த தவறும் செய்யவில்லை.",
+      "english": "I didn't do anything wrong."
+    },
+    {
+      "id": 155,
+      "tamil": "நீ எதாவது தப்பு பண்ணியா?",
+      "english": "Did you do anything wrong?"
+    },
+    {
+      "id": 156,
+      "tamil": "சுவற்றில் சாயாதே",
+      "english": "Don't lean on the wall."
+    },
+    {
+      "id": 157,
+      "tamil": "கபட பண்ணாத.",
+      "english": "Don't argue."
+    },
+    {
+      "id": 158,
+      "tamil": "போயி வேற ஏதாவது பண்ணு.",
+      "english": "Go and do something else."
+    },
+    {
+      "id": 159,
+      "tamil": "என்ன வாங்குன?",
+      "english": "What did you buy?"
+    },
+    {
+      "id": 160,
+      "tamil": "HELMET-9] போடு.",
+      "english": "Wear the helmet."
+    },
+    {
+      "id": 161,
+      "tamil": "நான் தூங்கப்போறேன்.",
+      "english": "I am going to sleep."
+    },
+    {
+      "id": 162,
+      "tamil": "என்கூட விளையாடு.",
+      "english": "Play with me."
+    },
+    {
+      "id": 163,
+      "tamil": "அவ ரொம்ப குண்டா இருக்கா.",
+      "english": "She is so fat."
+    },
+    {
+      "id": 164,
+      "tamil": "நான் நாளைக்கு BUSY-WIT இருப்பேன்.",
+      "english": "I'll be busy tomorrow."
+    },
+    {
+      "id": 165,
+      "tamil": "உனக்கு பணம் தேவையா?",
+      "english": "Do you need money?"
+    },
+    {
+      "id": 166,
+      "tamil": "அனுப்புனேன்.",
+      "english": "I sent him ₹3000 two months ago."
+    },
+    {
+      "id": 167,
+      "tamil": "எல்லா பழியையும் என்மேல போடாத.",
+      "english": "Don’t put all the blame on me."
+    },
+    {
+      "id": 168,
+      "tamil": "எனக்கு அவர ஒரு மாசமா தெரியும்.",
+      "english": "I have known him for a month."
+    },
+    {
+      "id": 169,
+      "tamil": "எனக்கு அவளை ஒரு மாதமாக தெரியும்.",
+      "english": "I have known her for a month."
+    },
+    {
+      "id": 170,
+      "tamil": "பரவாயில்ல.",
+      "english": "I had a severe headache this morning. Now I feel better."
+    },
+    {
+      "id": 171,
+      "tamil": "வேற யாராலயும் இத பண்ண முடியாதா?",
+      "english": "Can't someone else do this?"
+    },
+    {
+      "id": 172,
+      "tamil": "நாளைக்கு எனக்கு EXAM இருக்கு.",
+      "english": "I have an exam tomorrow."
+    },
+    {
+      "id": 173,
+      "tamil": "நீயெல்லாம் எனக்கு ஒரு ஆளே இல்ல.",
+      "english": "You are nothing to me."
+    },
+    {
+      "id": 174,
+      "tamil": "என்னோட பொறுமைய இழந்துட்டேன்.",
+      "english": "I lost my patience."
+    },
+    {
+      "id": 175,
+      "tamil": "வாயை கொப்பளி.",
+      "english": "Rinse your mouth."
+    },
+    {
+      "id": 176,
+      "tamil": "அவன் என்ன நச்சரிச்௫க்கஇட்டே இருக்குறான்.",
+      "english": "He keeps on nagging me."
+    },
+    {
+      "id": 177,
+      "tamil": "என் ELL. 100-வாதான் இருக்கு.",
+      "english": "I have only Rs100/-"
+    },
+    {
+      "id": 178,
+      "tamil": "இது என்ன மாசம்?",
+      "english": "What month is this?"
+    },
+    {
+      "id": 179,
+      "tamil": "நீ இந்தமாரி பண்ணுவ-ன்னு எனக்கு தெரியும்.",
+      "english": "I know you would do like this."
+    },
+    {
+      "id": 180,
+      "tamil": "எனக்கு வேற என்ன பண்றதுன்னே தெரியல.",
+      "english": "I don't know what else to do."
+    },
+    {
+      "id": 181,
+      "tamil": "அவன் ஒன்னுத்துக்கும் லாயக்கு இல்ல.",
+      "english": "He is good for nothing."
+    },
+    {
+      "id": 182,
+      "tamil": "அவங்க புதுசா கல்யாணமானவங்க.",
+      "english": "They are newly married couple."
+    },
+    {
+      "id": 183,
+      "tamil": "நான்தான் உனக்கு HELP பண்ணேன். மறந்துடாத.",
+      "english": "It is I who helped you. Don't forget."
+    },
+    {
+      "id": 184,
+      "tamil": "இதுக்குமேல என்ன நடக்கணும்?",
+      "english": "What more than this should happen?"
+    },
+    {
+      "id": 185,
+      "tamil": "அவள் எனக்கு உதவுவாள் என்று நினைத்தேன்.",
+      "english": "I thought she would help me."
+    },
+    {
+      "id": 186,
+      "tamil": "நான் வெளியில போயிருந்தப்போ யாராவது வந்தாங்களா?",
+      "english": "Did anybody come when I was out?"
+    },
+    {
+      "id": 187,
+      "tamil": "யாரும் வரல.",
+      "english": "Nobody came."
+    },
+    {
+      "id": 188,
+      "tamil": "என்னோட வாழ்க்கையே முடிஞ்ருச்ச-ன்னு நெனச்சேன்.",
+      "english": "I thought my life had ended."
+    },
+    {
+      "id": 189,
+      "tamil": "மண்ணுல விளையாடாத.",
+      "english": "Don’t play in the mud."
+    },
+    {
+      "id": 190,
+      "tamil": "நான் என்ன பண்ணனும்-னு நீ சொல்லாத. உன் வேலைய பாரு.",
+      "english": "Stop telling me what to do. Mind your own business."
+    }
+  ],
+  "book3": [
+    {
+      "id": 1,
+      "tamil": "அவனை குறைத்து மட௫ப்பிடாதே.",
+      "english": "Don’t underestimate him."
+    },
+    {
+      "id": 2,
+      "tamil": "பாக்குறதையெல்லாம் கேக்காத.",
+      "english": "Don't ask everything you see."
+    },
+    {
+      "id": 3,
+      "tamil": "எப்ப பாத்தாலும் அவரு என்னையேதான் குத்தம் சொல்றாரு.",
+      "english": "He always blames me."
+    },
+    {
+      "id": 4,
+      "tamil": "மழையில் நனையாதே.",
+      "english": "Don't get wet in the rain."
+    },
+    {
+      "id": 5,
+      "tamil": "எதுவா இருந்தாலும் நான் பாத்துக்குறேன்.",
+      "english": "Whatever it is, I’ll see to it."
+    },
+    {
+      "id": 6,
+      "tamil": "உன்ன பாப்பேன்னு நான் நெனச் கூட பாக்கல.",
+      "english": "I never thought I would see you."
+    },
+    {
+      "id": 7,
+      "tamil": "ரெண்டு வாரமா உடம்பு முடியாம இருக்கேன்.",
+      "english": "I have been ill for two weeks."
+    },
+    {
+      "id": 8,
+      "tamil": "நீங்க சொல்றது சரிதான்.",
+      "english": "What you are saying is right."
+    },
+    {
+      "id": 9,
+      "tamil": "அத நீயா எடுத்த?",
+      "english": "Did you take it?"
+    },
+    {
+      "id": 10,
+      "tamil": "வேற யாரும் எனக்கு HELP பண்ணல.",
+      "english": "No one else helped me."
+    },
+    {
+      "id": 11,
+      "tamil": "அவன எப்புடி சமாளிக்குறது-ன்னு எனக்கு தெரியும்.",
+      "english": "I know how to deal with him."
+    },
+    {
+      "id": 12,
+      "tamil": "யாருக்கட்டயும் எதுவும் சொல்லிராத.",
+      "english": "Don't tell anything to anyone."
+    },
+    {
+      "id": 13,
+      "tamil": "எல்லாத்துக்கும் ஒரு காலம் இருக்கு.",
+      "english": "There is a time for everything."
+    },
+    {
+      "id": 14,
+      "tamil": "நான் சொல்றத செயய். ஏன் எதுக்குன்னு-லாம் கேக்காத.",
+      "english": "Do what I say. Don’t ask me why."
+    },
+    {
+      "id": 15,
+      "tamil": "அதைத்தான் நானும் கேட்க்இறேன்.",
+      "english": "That is what I am also asking."
+    },
+    {
+      "id": 16,
+      "tamil": "காலைல இருந்து அவ எதுவுமே சாப்டல.",
+      "english": "She has not eaten anything since morning."
+    },
+    {
+      "id": 17,
+      "tamil": "ஏன் தயங்குற?",
+      "english": "Why are you hesitating?"
+    },
+    {
+      "id": 18,
+      "tamil": "உன்னோட வயசுல நான் ரொம்ப கஷ்டப்பட்டேன்.",
+      "english": "When I was your age, I suffered a lot."
+    },
+    {
+      "id": 19,
+      "tamil": "அவ எங்க௫ட்ட எதுவும் சொல்லல.",
+      "english": "She didn't tell us anything."
+    },
+    {
+      "id": 20,
+      "tamil": "உன்னாலதான் நான் இப்டி ஆயிட்டேன்.",
+      "english": "It is only because of you I have become like this."
+    },
+    {
+      "id": 21,
+      "tamil": "வீட்டுக்கு போயிட்டு கூப்புடு.",
+      "english": "Call me when you get home."
+    },
+    {
+      "id": 22,
+      "tamil": "ONLINE-&@& எப்ப வருவ?",
+      "english": "When will you come online?"
+    },
+    {
+      "id": 23,
+      "tamil": "என்ன REPLY பண்ண மாட்டியா?",
+      "english": "Won't you reply me?"
+    },
+    {
+      "id": 24,
+      "tamil": "விரல SLAM வேல-லாம் வச்௫க்காத.",
+      "english": "Don’t point your finger."
+    },
+    {
+      "id": 25,
+      "tamil": "அவன பத்ரமா பாத்துக்கோ.",
+      "english": "Take care of him."
+    },
+    {
+      "id": 26,
+      "tamil": "அவள பத்ரமா பாத்துக்கோ.",
+      "english": "Take care of her."
+    },
+    {
+      "id": 27,
+      "tamil": "இங்க SIGN போடு.",
+      "english": "Sign here."
+    },
+    {
+      "id": 28,
+      "tamil": "எவ்ளோ நாள் ஊர்ல இருப்பீங்க?",
+      "english": "How long will you be in town?"
+    },
+    {
+      "id": 29,
+      "tamil": "நான் சொல்றத எழுது usFHlSCar.",
+      "english": "Mark my words."
+    },
+    {
+      "id": 30,
+      "tamil": "DUSTBIN எங்க இருக்கு?",
+      "english": "Where is the dustbin?"
+    },
+    {
+      "id": 31,
+      "tamil": "நான் உனக்கு யாரு-ன்னு காட்றேன் இரு.",
+      "english": "I will show you who I am."
+    },
+    {
+      "id": 32,
+      "tamil": "எனக்கு உறுஇயா தெரியல.",
+      "english": "I don’t know for sure."
+    },
+    {
+      "id": 33,
+      "tamil": "தெளிவா எழுது.",
+      "english": "Write clearly."
+    },
+    {
+      "id": 34,
+      "tamil": "எனக்கு பதட்டமா இருக்கு.",
+      "english": "I am feeling nervous."
+    },
+    {
+      "id": 35,
+      "tamil": "நாளைக்கு நீங்க FREE தான?",
+      "english": "Are you free tomorrow?"
+    },
+    {
+      "id": 36,
+      "tamil": "உன்னோட மெரட்டலுக்கேல்லாம் நான் பயப்படமாட்டேன்.",
+      "english": "I am not afraid of your threat."
+    },
+    {
+      "id": 37,
+      "tamil": "அவங்க என்ன பேசவே விடல.",
+      "english": "They didn’t let me speak at all."
+    },
+    {
+      "id": 38,
+      "tamil": "இன்னைக்கு சாயங்கலாம் எனக்கு ஒரு மீட்டிங் இருக்கு.",
+      "english": "I have a meeting this evening."
+    },
+    {
+      "id": 39,
+      "tamil": "இப்ப அவரு செம்ம கடுப்புல இருக்காரு.",
+      "english": "He is very angry now."
+    },
+    {
+      "id": 40,
+      "tamil": "நான் உன்ன சும்மா விட மாட்டேன்.",
+      "english": "I won’t spare you."
+    },
+    {
+      "id": 41,
+      "tamil": "இந்த சட்ட உனக்கு நல்லா இருக்கு.",
+      "english": "This shirt looks good on you."
+    },
+    {
+      "id": 42,
+      "tamil": "நான் என்னோட தப்ப உணர்ந்துட்டேன்.",
+      "english": "I have realized my mistake."
+    },
+    {
+      "id": 43,
+      "tamil": "இப்போதைக்கு இத சாப்புடு.",
+      "english": "Eat it for now."
+    },
+    {
+      "id": 44,
+      "tamil": "இப்போதைக்கு நான் சொல்றத கேளு.",
+      "english": "Listen to me for now."
+    },
+    {
+      "id": 45,
+      "tamil": "நான் எதுக்கும் பயப்படமாட்டேன்.",
+      "english": "I am not afraid of anything."
+    },
+    {
+      "id": 46,
+      "tamil": "கொஞ்சம் REST எடுத்துக்கோ.",
+      "english": "Take some rest."
+    },
+    {
+      "id": 47,
+      "tamil": "நீ என்னைக்காவது என்ன நம்பியிருக்இறியா?",
+      "english": "Have you ever believed me?"
+    },
+    {
+      "id": 48,
+      "tamil": "யாரையும் நம்பாத.",
+      "english": "Don't trust anyone."
+    },
+    {
+      "id": 49,
+      "tamil": "LIST-6U என்னோட பேரையும் சேத்துக்கோங்க.",
+      "english": "Please add my name to the list."
+    },
+    {
+      "id": 50,
+      "tamil": "நான் யார்கூட விளயாட்றது?",
+      "english": "With whom can I play?"
+    },
+    {
+      "id": 51,
+      "tamil": "முடிஞ்ச அளவுக்கு வேகமா பண்ணு.",
+      "english": "Do it as fast as you can."
+    },
+    {
+      "id": 52,
+      "tamil": "உங்களோட பேரு என்ன-ன்னு சொன்னீங்க?",
+      "english": "What did you say your name was?"
+    },
+    {
+      "id": 53,
+      "tamil": "எதாவது தப்பாச்்௪ன்னா நீங்கதான் அதுக்கு பொறுப்பு.",
+      "english": "If anything goes wrong, you are responsible for that."
+    },
+    {
+      "id": 54,
+      "tamil": "குழந்தைய யாரு பாத்துக்குவா?",
+      "english": "Who will take care of the baby?"
+    },
+    {
+      "id": 55,
+      "tamil": "உனக்கு எதாவது வேணும்னா தயங்காம சொல்லு.",
+      "english": "Don’t hesitate to tell me if you need anything?"
+    },
+    {
+      "id": 56,
+      "tamil": "இதத்தான் நீ போன தடவையும் சொன்ன.",
+      "english": "This is what you said the last time."
+    },
+    {
+      "id": 57,
+      "tamil": "அதத்தான் உன்இட்ட சொல்ல வரேன்.",
+      "english": "That is what I am trying to tell you."
+    },
+    {
+      "id": 58,
+      "tamil": "அதத்தான் உன்இட்ட சொல்ல வந்தேன்.",
+      "english": "That is what I was trying to tell you."
+    },
+    {
+      "id": 59,
+      "tamil": "LATE ஆயிட்ருக்கு.",
+      "english": "It is getting late."
+    },
+    {
+      "id": 60,
+      "tamil": "அவன் அதுர்ஷ்டசாலி.",
+      "english": "He is lucky."
+    },
+    {
+      "id": 61,
+      "tamil": "அவனுக்கு விருப்பம் இல்லன்னா அவன் பேச வேண்டாம்.",
+      "english": "He doesn’t need to talk if he is not willing to."
+    },
+    {
+      "id": 62,
+      "tamil": "சாப்பாடு ரெடியா?",
+      "english": "Is the food ready?"
+    },
+    {
+      "id": 63,
+      "tamil": "நீ என்கூட வரியா?",
+      "english": "Are you coming with me?"
+    },
+    {
+      "id": 64,
+      "tamil": "இப்போதைக்கு இங்க STAY பண்ணிக்கோ.",
+      "english": "Stay here for now."
+    },
+    {
+      "id": 65,
+      "tamil": "அவங்க கோவப்பட்டாங்க-ன்னா என்ன பண்றது?",
+      "english": "What if they get angry?"
+    },
+    {
+      "id": 66,
+      "tamil": "நான் பேசும்போது குறுக்க பேசாத.",
+      "english": "Don’t talk while I am talking."
+    },
+    {
+      "id": 67,
+      "tamil": "என்ன ஒரு மாதுரி TIRED -ஆ இருக்க? உடம்பு சரியில்லையா?",
+      "english": "You look very tired. Are you not well?"
+    },
+    {
+      "id": 68,
+      "tamil": "கடையை எப்பொழுது இறப்பீர்கள்?",
+      "english": "When will you open the shop?"
+    },
+    {
+      "id": 69,
+      "tamil": "இதத்தான் உன் இட்ட நான் சொல்லிக்இட்டே இருக்குறேன்.",
+      "english": "This is what I have been telling you."
+    },
+    {
+      "id": 70,
+      "tamil": "இதத்தான் நான் sHTUTTHCHeor.",
+      "english": "This is what I expected."
+    },
+    {
+      "id": 71,
+      "tamil": "அதனாலதான் அங்க உன்ன தனியா போக வேணாம்னு சொல்றேன்.",
+      "english": "That is why I am telling you not to go alone."
+    },
+    {
+      "id": 72,
+      "tamil": "இதனாலதான் நான் வேலைய விட்டுட்டேன்.",
+      "english": "This is why I quit my job."
+    },
+    {
+      "id": 73,
+      "tamil": "நாளைக்கு நான் சென்னைக்கு போறேன். அடுத்த மாசம்தான் இரும்பி வருவேன்.",
+      "english": "I am going to Chennai tomorrow and will be back only next month."
+    },
+    {
+      "id": 74,
+      "tamil": "ஏன் டகாட்-ஆ REPLY பண்ற?",
+      "english": "Why are you replying me late?"
+    },
+    {
+      "id": 75,
+      "tamil": "நடந்து போ.",
+      "english": "Go on foot."
+    },
+    {
+      "id": 76,
+      "tamil": "அவங்க என்ன செஞ்சாலும் சரி கம்முன்னு இரு.",
+      "english": "No matter what they do, keep calm."
+    },
+    {
+      "id": 77,
+      "tamil": "இந்த வாசன நல்லா இருக்கு.",
+      "english": "The smell is good."
+    },
+    {
+      "id": 78,
+      "tamil": "உனக்கு இது புடிச்சிருக்கா?",
+      "english": "Do you like this?"
+    },
+    {
+      "id": 79,
+      "tamil": "இது உன்னோடது இல்ல.",
+      "english": "It’s not yours."
+    },
+    {
+      "id": 80,
+      "tamil": "இது என்னோடது இல்ல.",
+      "english": "It’s not mine."
+    },
+    {
+      "id": 81,
+      "tamil": "அவன சாப்ட வை.",
+      "english": "Make him eat."
+    },
+    {
+      "id": 82,
+      "tamil": "பெரியவங்களுக்கு மரியாத கொடு.",
+      "english": "Respect your elders."
+    },
+    {
+      "id": 83,
+      "tamil": "இதுல வெக்கப்பட்றதுக்கு ஒன்னும் இல்ல.",
+      "english": "There is nothing to be ashamed of."
+    },
+    {
+      "id": 84,
+      "tamil": "SORRY உங்கள எனக்கு அடையாளம் தெரியல.",
+      "english": "Sorry, I don't recognise you."
+    },
+    {
+      "id": 85,
+      "tamil": "சாதம் கொழஞ்ச௪ Guns.",
+      "english": "The rice has become soggy."
+    },
+    {
+      "id": 86,
+      "tamil": "BISCUIT நமுத்து போச்.",
+      "english": "The biscuit has gone soft."
+    },
+    {
+      "id": 87,
+      "tamil": "பாத்து நட.",
+      "english": "Watch your steps."
+    },
+    {
+      "id": 88,
+      "tamil": "வேற ஒருத்தர் இட்ட CUALA இருந்தேன்.",
+      "english": "I was talking to someone else."
+    },
+    {
+      "id": 89,
+      "tamil": "நீ போக மாட்டியா?",
+      "english": "Won’t you go?"
+    },
+    {
+      "id": 90,
+      "tamil": "நான் ஏற்கனவே அத முடிச்சிட்டேன்.",
+      "english": "I have already finished it."
+    },
+    {
+      "id": 91,
+      "tamil": "நான் தெரிஞ்சுக்கலாமா?",
+      "english": "May I know?"
+    },
+    {
+      "id": 92,
+      "tamil": "நான் இத எடுத்துக்கலாமா?",
+      "english": "May I take it?"
+    },
+    {
+      "id": 93,
+      "tamil": "எனக்கு யாரையும் தெரியாது.",
+      "english": "I don’t know anybody."
+    },
+    {
+      "id": 94,
+      "tamil": "அங்க எனக்கு யாரையும் தெரியாது.",
+      "english": "I don’t know anybody there."
+    },
+    {
+      "id": 95,
+      "tamil": "LATE-94, வந்ததுக்கு SORRY. இன்னைக்கு TRAFFIC ரொம்ப அஇகமா இருந்துச்சி.",
+      "english": "Sorry, I am late. There was so much of traffic today."
+    },
+    {
+      "id": 96,
+      "tamil": "நான் எதுக்கு போகணும்?",
+      "english": "Why should I go?"
+    },
+    {
+      "id": 97,
+      "tamil": "அவன் இட்ட போயி கேக்குறதுக்கு நீ கம்முனே இருக்கலாம்.",
+      "english": "Rather than asking him, It is better to remain silent."
+    },
+    {
+      "id": 98,
+      "tamil": "நாளைக்கு எங்களுக்கு லீவு.",
+      "english": "Tomorrow is holiday for us."
+    },
+    {
+      "id": 99,
+      "tamil": "எனக்கு ஒரு BOTTLE தண்ணி வேணும்.",
+      "english": "I want a bottle of water."
+    },
+    {
+      "id": 100,
+      "tamil": "எனக்கு ஒரு GLASS தண்ணி வேணும்.",
+      "english": "I want a glass of water."
+    },
+    {
+      "id": 101,
+      "tamil": "௰ு-ல உன் கூட இருக்குறது யாரு?",
+      "english": "Who is with you in your DP?"
+    },
+    {
+      "id": 102,
+      "tamil": "என்ன..ரொம்ப புத்துசாலித்தனமா பேசுறதா நெனப்போ?",
+      "english": "Do you think you are talking too smart?"
+    },
+    {
+      "id": 103,
+      "tamil": "Pe ALL நான் பேசமாட்டேன்.",
+      "english": "I won't talk to you."
+    },
+    {
+      "id": 104,
+      "tamil": "எனக்கு இன்னும் ஞாபகம் இருக்கு.",
+      "english": "I still remember."
+    },
+    {
+      "id": 105,
+      "tamil": "உங்கள தொந்தரவு பண்ணிட்டேனா?",
+      "english": "Have I disturbed you?"
+    },
+    {
+      "id": 106,
+      "tamil": "அவரோட வீட்டுக்கு எப்புடி போகணும்னு உனக்கு தெரியுமா?",
+      "english": "Do you know how to get his house?"
+    },
+    {
+      "id": 107,
+      "tamil": "அவன் ட்ட வாழ்றத விட தனியாவே இருந்துட்டு போய்டலாம்.",
+      "english": "Rather than living with him, it is better to be alone."
+    },
+    {
+      "id": 108,
+      "tamil": "உளறாதே.",
+      "english": "Don’t babble."
+    },
+    {
+      "id": 109,
+      "tamil": "வாழ்க்கையில எதாவது சாதுக்கணும்-னு ஆசைப்பட்றேன்.",
+      "english": "I want to achieve something in life."
+    },
+    {
+      "id": 110,
+      "tamil": "இது வேற யாரோ.",
+      "english": "This is someone else."
+    },
+    {
+      "id": 111,
+      "tamil": "என் அருகில் உட்கார்.",
+      "english": "Sit near me."
+    },
+    {
+      "id": 112,
+      "tamil": "நான் என்ன பண்ண போறேன்-னு எனக்கு இன்னும் தெரியல.",
+      "english": "I don’t know what I am going to do yet."
+    },
+    {
+      "id": 113,
+      "tamil": "நீ இந்த மாதுரி பண்ணுவ-ன்னு எனக்கு தெரியும்.",
+      "english": "I know you would do like this."
+    },
+    {
+      "id": 114,
+      "tamil": "நீ என்ன நம்பித்தான் ஆகணும்.",
+      "english": "You have to believe me."
+    },
+    {
+      "id": 115,
+      "tamil": "இன்னும் கொஞ்சம் சாப்புடுங்க.",
+      "english": "Please have some more."
+    },
+    {
+      "id": 116,
+      "tamil": "உனக்கு PHONE uHS! பாரு.",
+      "english": "Your phone is ringing."
+    },
+    {
+      "id": 117,
+      "tamil": "அவனுக்கு புரிய வை.",
+      "english": "Make him understand."
+    },
+    {
+      "id": 118,
+      "tamil": "உனக்கென்ன என்ன பாத்தா முட்டாள் மாஇரி தெரியுதா?",
+      "english": "Do I like a fool to you? I am asking you this as a friend."
+    },
+    {
+      "id": 119,
+      "tamil": "இத பாரு எனக்கு தலைக்கு மேல வேல இருக்கு.",
+      "english": "Look, I’m extremely busy."
+    },
+    {
+      "id": 120,
+      "tamil": "DP செம்மையா இருக்கு.",
+      "english": "Your DP is awesome."
+    },
+    {
+      "id": 121,
+      "tamil": "முதலில் நீங்கள் யார் என்று சொல்லுங்கள்.",
+      "english": "First tell me who you are."
+    },
+    {
+      "id": 122,
+      "tamil": "இதத்தான் தேடிக்கிட்டு இருந்தேன்.",
+      "english": "This is what I was looking for."
+    },
+    {
+      "id": 123,
+      "tamil": "அதத்தான் தேடிக்கிட்டு இருந்தேன்.",
+      "english": "That is what I was looking for."
+    },
+    {
+      "id": 124,
+      "tamil": "உங்களுக்கு எத்தனை குழந்தைகள்?",
+      "english": "How many children do you have?"
+    },
+    {
+      "id": 125,
+      "tamil": "அவசர அவசரமா சாப்டாத.",
+      "english": "Don’t eat in such a hurry."
+    },
+    {
+      "id": 126,
+      "tamil": "இவன் என்ன செஞ்சான்னு உனக்கு தெரியுமா?",
+      "english": "Do you know what he did?"
+    },
+    {
+      "id": 127,
+      "tamil": "உன்னால என்ன தொட கூட முடியாது.",
+      "english": "You can’t even touch me."
+    },
+    {
+      "id": 128,
+      "tamil": "நான் TRAFFIC-6U மாட்டிக்கட்டேன்.",
+      "english": "I’m stuck in traffic."
+    },
+    {
+      "id": 129,
+      "tamil": "நேரா நேரத்துக்கு சாப்புடு. நேரா நேரத்துக்கு தூங்கு.",
+      "english": "Eat on time. Sleep on time."
+    },
+    {
+      "id": 130,
+      "tamil": "நீ என்னோட பேச்ச கேக்கவே மாட்டிக்குற.",
+      "english": "You are not at all listening to me."
+    },
+    {
+      "id": 131,
+      "tamil": "யாரையும் ஏமாத்தாத.",
+      "english": "Don't cheat anybody."
+    },
+    {
+      "id": 132,
+      "tamil": "எனக்கு ப௫க்குது.",
+      "english": "I am hungry."
+    },
+    {
+      "id": 133,
+      "tamil": "எனக்கு ப௫க்கல.",
+      "english": "I'm not hungry."
+    },
+    {
+      "id": 134,
+      "tamil": "அவ நல்லா சமைப்பா.",
+      "english": "She is very good at cooking."
+    },
+    {
+      "id": 135,
+      "tamil": "நான் இரும்பி வர வரைக்கும் WAIT பண்ணு.",
+      "english": "Wait until I return."
+    },
+    {
+      "id": 136,
+      "tamil": "யாரும் என்ன புரிஞ்சுக்கவே மாட்டிக்குறாங்க.",
+      "english": "Nobody understands me."
+    },
+    {
+      "id": 137,
+      "tamil": "நீ அனுப்புன VIDEO செம்மையா இருந்துச்சி.",
+      "english": "The video that you sent was awesome."
+    },
+    {
+      "id": 138,
+      "tamil": "TOALL சொல்லாம எதுக்கு அங்க போன?",
+      "english": "Why did you go there without telling me?"
+    },
+    {
+      "id": 139,
+      "tamil": "eTeoT GeoriTL. NUMBER உனக்கு எப்புடி கெடச்சுது?",
+      "english": "How did you get my number?"
+    },
+    {
+      "id": 140,
+      "tamil": "என்ன செய்யணும் என்ன செய்யக்கூடாதுன்னு எனக்கு தெரியும்.",
+      "english": "I know what to do and what not to do."
+    },
+    {
+      "id": 141,
+      "tamil": "உங்கிட்ட கொஞ்சம் PERSONAL-94 பேசணும்.",
+      "english": "I want to talk to you personally."
+    },
+    {
+      "id": 142,
+      "tamil": "உங்க நம்பர் croorSlLL இல்ல.",
+      "english": "I don't have your number."
+    },
+    {
+      "id": 143,
+      "tamil": "யார் கூடயாச்சும் போ.",
+      "english": "Go with someone."
+    },
+    {
+      "id": 144,
+      "tamil": "என்னோட DATA முடியப்போகுது.",
+      "english": "My data is going to get over."
+    },
+    {
+      "id": 145,
+      "tamil": "இத எப்ப வாங்குன?",
+      "english": "When did you buy it?"
+    },
+    {
+      "id": 146,
+      "tamil": "நான் அப்போ அவசரத்துல இருந்தேன்.",
+      "english": "I was in a hurry then."
+    },
+    {
+      "id": 147,
+      "tamil": "TOALL பொய் சொல்லாத.",
+      "english": "Don’t lie to me."
+    },
+    {
+      "id": 148,
+      "tamil": "அவன் DAILY ஒரு DP மாத்துவான்.",
+      "english": "He changes his DP daily."
+    },
+    {
+      "id": 149,
+      "tamil": "பொறுமையாவே பண்ணு.",
+      "english": "Do it slowly."
+    },
+    {
+      "id": 150,
+      "tamil": "நான் ஒத்துக்கல.",
+      "english": "I didn’t agree."
+    },
+    {
+      "id": 151,
+      "tamil": "எல்லா இடங்களிலும் பார்த்துவிட்டேன்.",
+      "english": "I have looked everywhere."
+    },
+    {
+      "id": 152,
+      "tamil": "எல்லா எடத்துலயும் பாத்துட்டேன். என்னோட PURSE-9| காணும்.",
+      "english": "I have looked everywhere, but I can’t find my purse."
+    },
+    {
+      "id": 153,
+      "tamil": "எனக்கு உறுஇயா தெரியும்.",
+      "english": "I know for sure."
+    },
+    {
+      "id": 154,
+      "tamil": "நான் எதுக்கு அமைதியா இருக்கணும்?",
+      "english": "Why should I stay calm?"
+    },
+    {
+      "id": 155,
+      "tamil": "பொறுமையை இழந்துவிடாதே.",
+      "english": "Don’t lose your temper."
+    },
+    {
+      "id": 156,
+      "tamil": "யாருக்குமே நான் தேவ இல்ல.",
+      "english": "Nobody needs me."
+    },
+    {
+      "id": 157,
+      "tamil": "இவரு என்னோட பக்கத்து வீட்டுக்காரரு.",
+      "english": "He is my neighbour."
+    },
+    {
+      "id": 158,
+      "tamil": "மீது இருக்குறத நீ பாத்துக்கோ.",
+      "english": "You take care of the rest."
+    },
+    {
+      "id": 159,
+      "tamil": "அங்க போறது எனக்கு ஒன்னும் பிரச்சன இல்ல.",
+      "english": "I don’t mind going there."
+    },
+    {
+      "id": 160,
+      "tamil": "என்னாலையே அத நம்ப முடியல.",
+      "english": "Even I can't believe that."
+    },
+    {
+      "id": 161,
+      "tamil": "என்ன பண்ண போற?",
+      "english": "What are you going to do?"
+    },
+    {
+      "id": 162,
+      "tamil": "*2-க்கு அப்புறம் என்ன பண்ண போற?",
+      "english": "What are you going to do after +2?"
+    },
+    {
+      "id": 163,
+      "tamil": "போயி REACH ஆனதும் எனக்கு ஒரு MESSAGE Licvor soo.",
+      "english": "Send me a message once you reach."
+    },
+    {
+      "id": 164,
+      "tamil": "எப்ப உனக்கு EXAM?",
+      "english": "When is your exam?"
+    },
+    {
+      "id": 165,
+      "tamil": "நான் எப்ப சொன்னேன்?",
+      "english": "When did I say?"
+    },
+    {
+      "id": 166,
+      "tamil": "நான் அத சொல்லவே இல்ல.",
+      "english": "I never said that."
+    },
+    {
+      "id": 167,
+      "tamil": "யாருக்குமே என்ன புடிக்கல.",
+      "english": "Nobody likes me."
+    },
+    {
+      "id": 168,
+      "tamil": "அவ இன்னைக்கு ABSENT.",
+      "english": "She is absent today."
+    },
+    {
+      "id": 169,
+      "tamil": "நான் அத வேணும்னே பண்ணல.",
+      "english": "I didn’t do it on purpose."
+    },
+    {
+      "id": 170,
+      "tamil": "எனக்கு இந்த அதஇுர்ஷ்ட்டத்துல-லாம் நம்பிக்க இல்ல.",
+      "english": "I don't believe in luck"
+    },
+    {
+      "id": 171,
+      "tamil": "என்ன FH ETLOM எழுப்பி விடு.",
+      "english": "Wake me up early."
+    },
+    {
+      "id": 172,
+      "tamil": "எதுக்கும் பயப்படாத.",
+      "english": "Don’t be afraid of anything."
+    },
+    {
+      "id": 173,
+      "tamil": "வா வெளிய போலாம்.",
+      "english": "Let’s go outside."
+    },
+    {
+      "id": 174,
+      "tamil": "அவன் எனக்கு VOICE MESSAGE அனுப்பி இருக்கான்.",
+      "english": "He has sent me a voice message."
+    },
+    {
+      "id": 175,
+      "tamil": "நான் உனக்கு VIDEO CALL பண்றேன்.",
+      "english": "I will do a video call to you."
+    },
+    {
+      "id": 176,
+      "tamil": "அதை திறந்தே வை.",
+      "english": "Keep it open."
+    },
+    {
+      "id": 177,
+      "tamil": "இதைத்தான் நீ எப்போதும் சொல் இறாய்.",
+      "english": "This is what you always say."
+    },
+    {
+      "id": 178,
+      "tamil": "எங்க அப்பா எப்பயுமே இதத்தான் சொல்லுவாரு.",
+      "english": "This is what my dad always says."
+    },
+    {
+      "id": 179,
+      "tamil": "அமைஇயா இரு இல்லன்னா வெளிய போ.",
+      "english": "Keep calm or leave."
+    },
+    {
+      "id": 180,
+      "tamil": "இப்பயாச்சும் என்ன நீ என்ன நம்புறியா?",
+      "english": "Do you believe me now?"
+    },
+    {
+      "id": 181,
+      "tamil": "என்ன தேவ இல்லாம கத்த வைக்காத.",
+      "english": "Don’t make me shout unnecessarily."
+    },
+    {
+      "id": 182,
+      "tamil": "நீ எங்கள நம்பித்தான் ஆகணும்.",
+      "english": "You have to believe us."
+    },
+    {
+      "id": 183,
+      "tamil": "நீதான் என்ன கத்தவைக்ஒற.",
+      "english": "You are making me shout."
+    },
+    {
+      "id": 184,
+      "tamil": "நான் ஒரு கபட பண்ணனும்.",
+      "english": "I want to make a call."
+    },
+    {
+      "id": 185,
+      "tamil": "அந்த விஷயத்த விடு.",
+      "english": "Drop the matter."
+    },
+    {
+      "id": 186,
+      "tamil": "இப்ப நான் என்ன செய்யணும்-ன்ற?",
+      "english": "What do you want me to do now?"
+    },
+    {
+      "id": 187,
+      "tamil": "எல்லாம் நாம நெனைக்குற மாஇரியே நடந்துருமா?",
+      "english": "Will everything happen as we think?"
+    },
+    {
+      "id": 188,
+      "tamil": "நான் வேலை தேடிக்கொன்ன்டு இருக்கிறேன்.",
+      "english": "I am looking for a job."
+    },
+    {
+      "id": 189,
+      "tamil": "என்னவோ உனக்கு தெரியாத orp) கேக்காத.",
+      "english": "Don't ask as if you don't know."
+    },
+    {
+      "id": 190,
+      "tamil": "கொழம்புல கொஞ்சம் உப்பு போடு.",
+      "english": "Add some salt in the curry."
+    },
+    {
+      "id": 191,
+      "tamil": "உன்னோட கைய காட்டு.",
+      "english": "Show me your hands."
+    },
+    {
+      "id": 192,
+      "tamil": "மேல இருந்து கைய எடு.",
+      "english": "Get your hands off me."
+    },
+    {
+      "id": 193,
+      "tamil": "இது இவ்ளோ ₹8-யா இருக்கும்னு நான் எஇுர்பாக்கல.",
+      "english": "I didn’t expect that it would be this easy."
+    },
+    {
+      "id": 194,
+      "tamil": "இது இவ்ளோ SIMPLE-94 இருக்கும்னு நான் எதுர்பாக்கல.",
+      "english": "I didn’t expect that it would be this simple."
+    },
+    {
+      "id": 195,
+      "tamil": "உன்னோட நோட்ட கொண்டு வா.",
+      "english": "Bring your note."
+    },
+    {
+      "id": 196,
+      "tamil": "இப்ப கவல பட்டு பிரயோஜனம் இல்ல.",
+      "english": "There is no use worrying now."
+    },
+    {
+      "id": 197,
+      "tamil": "இதை மீண்டும் எழுது.",
+      "english": "Rewrite it."
+    },
+    {
+      "id": 198,
+      "tamil": "எப்ப-ன்னு தெரியாது. ஆனா எப்பயாவது இது நடக்கும்.",
+      "english": "I don't know when, but it will happen someday."
+    }
+  ],
+  "book4": [
+    {
+      "id": 1,
+      "tamil": "இந்த BUS-U எப்பயுமே மாக்கு வராது.",
+      "english": "This bus doesn't always come on time."
+    },
+    {
+      "id": 2,
+      "tamil": "எதுக்கு சும்மா உக்காந்து இருக்க?",
+      "english": "Why are you sitting idle?"
+    },
+    {
+      "id": 3,
+      "tamil": "கேக்குறதுக்கு நல்லா இருக்கு ஆனா நடைமுறைக்கு ஒத்து வருமா?",
+      "english": "It is nice to hear, but is it practical?"
+    },
+    {
+      "id": 4,
+      "tamil": "இத நீயே வச்சிக்கோ.",
+      "english": "Keep it yourself."
+    },
+    {
+      "id": 5,
+      "tamil": "என்னோட கால் வலிக்குது.",
+      "english": "My leg is paining."
+    },
+    {
+      "id": 6,
+      "tamil": "வீட்லயே இரு எங்கயும் போகாத.",
+      "english": "Stay at home. Don’t go anywhere."
+    },
+    {
+      "id": 7,
+      "tamil": "தப்பு தவறி கூட அங்க போயிராத.",
+      "english": "Don’t go there even by mistake."
+    },
+    {
+      "id": 8,
+      "tamil": "என்னத்ததான் தேடிக்கிட்டு இருக்கற-ன்னு சொல்லேன்.",
+      "english": "Just tell me what you are looking for."
+    },
+    {
+      "id": 9,
+      "tamil": "சொல்ல வேண்டியதா போச்.",
+      "english": "I had to say."
+    },
+    {
+      "id": 10,
+      "tamil": "கேக்க வேண்டியதா போச்௪.",
+      "english": "I had to ask."
+    },
+    {
+      "id": 11,
+      "tamil": "போக வேண்டியதா போச்.",
+      "english": "I had to go."
+    },
+    {
+      "id": 12,
+      "tamil": "அவரு எப்பயுமே உன்ன பத்இதான் CUAL] இருக்காரு.",
+      "english": "He always talks about you."
+    },
+    {
+      "id": 13,
+      "tamil": "அவர தவிர யாருமே வரல.",
+      "english": "No one came except him."
+    },
+    {
+      "id": 14,
+      "tamil": "இந்த PHOTO-cv இருக்கறது யாரு?",
+      "english": "Who is in this photo?"
+    },
+    {
+      "id": 15,
+      "tamil": "எனக்கு யாரோட HELP-LO வேணாம்.",
+      "english": "I don’t want anyone’s help."
+    },
+    {
+      "id": 16,
+      "tamil": "இப்புடி நடக்கும்னு எனக்கு அப்பவே தெரியும்.",
+      "english": "I already knew that it would happen like this."
+    },
+    {
+      "id": 17,
+      "tamil": "உன்னோட கவனம்-லாம் எங்க இருக்கு?",
+      "english": "Where is your attention?"
+    },
+    {
+      "id": 18,
+      "tamil": "கோவப்படாம நான் சொல்றத கேளு.",
+      "english": "Listen to me without getting angry."
+    },
+    {
+      "id": 19,
+      "tamil": "நீ அத நம்பாத. அதெல்லாம் கட்டுக்கத.",
+      "english": "Don't believe that. It is all a fairytale."
+    },
+    {
+      "id": 20,
+      "tamil": "உன்ன வந்து பே௫க்்இறேன் (௮) உன்ன நான் அப்றமா கவனிச்க்குறேன்.",
+      "english": "I will deal with you later."
+    },
+    {
+      "id": 21,
+      "tamil": "என்ன இம்ச பண்ணாத.",
+      "english": "Don’t trouble me."
+    },
+    {
+      "id": 22,
+      "tamil": "நான் பேசும்போது அமைஇயா இரு.",
+      "english": "Be quiet while I am speaking."
+    },
+    {
+      "id": 23,
+      "tamil": "நான் பேசும்போது கொஞ்சம் அமைதியா இருக்கீங்களா?",
+      "english": "Can you be quiet while I am speaking?"
+    },
+    {
+      "id": 24,
+      "tamil": "நான் எதுக்கு பழிய ஏத்துக்கணும்?",
+      "english": "Why should I take the blame?"
+    },
+    {
+      "id": 25,
+      "tamil": "உன்ன நான் நம்பமாட்டேன். நீ எப்பயுமே பொய்தான் சொல்ற.",
+      "english": "I don't believe you. You are always lying."
+    },
+    {
+      "id": 26,
+      "tamil": "எதுக்கு இந்த மாஇரி பேசுற?",
+      "english": "Why are you speaking like this?"
+    },
+    {
+      "id": 27,
+      "tamil": "இதெல்லாம் எதுக்கு oTOTALL சொல்ற?",
+      "english": "Why are you telling me all this?"
+    },
+    {
+      "id": 28,
+      "tamil": "உன்னோட மனசுல நீ என்ன நெனச்௫ட்டு இருக்குற?",
+      "english": "What do you think of yourself?"
+    },
+    {
+      "id": 29,
+      "tamil": "இப்ப சந்தோஷமா?",
+      "english": "Are you happy now?"
+    },
+    {
+      "id": 30,
+      "tamil": "நீ வரியா இல்லையா?",
+      "english": "Are you coming or not?"
+    },
+    {
+      "id": 31,
+      "tamil": "உனக்கு வெக்கமா இல்ல?",
+      "english": "Are you not ashamed?"
+    },
+    {
+      "id": 32,
+      "tamil": "இப்ப நான் என்ன பண்ணனும்?",
+      "english": "What should I do now?"
+    },
+    {
+      "id": 33,
+      "tamil": "நான் என்னோட சொந்த கால்ல நிக்கணும்-னு ஆசைப்பட்றேன்.",
+      "english": "I want to stand on my own feet."
+    },
+    {
+      "id": 34,
+      "tamil": "இத ஏன் நீ முன்னாடியே சொல்லல?",
+      "english": "Why didn’t you say this earlier?"
+    },
+    {
+      "id": 35,
+      "tamil": "இது என்னோட தப்புதான்.",
+      "english": "It is my mistake."
+    },
+    {
+      "id": 36,
+      "tamil": "இவன் எப்பயுமே மாக்கு வரமாட்டான்.",
+      "english": "He doesn't always come on time."
+    },
+    {
+      "id": 37,
+      "tamil": "நான் எதுக்கு இத செய்யணும்?",
+      "english": "Why should I do this?"
+    },
+    {
+      "id": 38,
+      "tamil": "குழந்தைகளையும் உன்னுடன் அழைத்துக்கொண்டு போ.",
+      "english": "Take the children with you."
+    },
+    {
+      "id": 39,
+      "tamil": "உங்க குழந்தைகளையும் கூட்டிட்டு வாங்க.",
+      "english": "Bring your children along."
+    },
+    {
+      "id": 40,
+      "tamil": "என்னால அவ்ளோ நேரம்-லாம் இருக்க முடியாது.",
+      "english": "I can’t stay that long."
+    },
+    {
+      "id": 41,
+      "tamil": "அதெல்லாம் நான் பாத்துக்குறேன். நீ போ.",
+      "english": "I will take care of it all, you go."
+    },
+    {
+      "id": 42,
+      "tamil": "என்ன இண்டல் பண்றியா?",
+      "english": "Are you mocking at me?"
+    },
+    {
+      "id": 43,
+      "tamil": "கேக்குறதுக்கு நல்லாதான் இருக்கு. ஆனா நடைமுறைக்கு ஒத்து வராது.",
+      "english": "It is nice to here, but it is not practical."
+    },
+    {
+      "id": 44,
+      "tamil": "என்டுட்ட யாரும் எதுவும் சொல்றது இல்ல.",
+      "english": "Nobody tells me anything."
+    },
+    {
+      "id": 45,
+      "tamil": "அவன் சொல்றத எல்லாத்தையும் நீ நம்புறியா?",
+      "english": "Do you believe everything he tells you?"
+    },
+    {
+      "id": 46,
+      "tamil": "அதெல்லாம் சரி. இதெல்லாம் என்னது?",
+      "english": "That is all ok, what is all this?"
+    },
+    {
+      "id": 47,
+      "tamil": "நான் சொல்றத நீ புரிஞ்௪ிக்கவே மாட்டியா?",
+      "english": "Don’t you understand what I am saying?"
+    },
+    {
+      "id": 48,
+      "tamil": "அவன் குழந்தை போல நடந்து Qaret&mrresr.",
+      "english": "He behaves like a child."
+    },
+    {
+      "id": 49,
+      "tamil": "யார பாத்தும் எனக்கு பயம் இல்ல.",
+      "english": "I am not scared of anyone."
+    },
+    {
+      "id": 50,
+      "tamil": "நீ ஒன்னும் எனக்கு அட்வைஸ் பண்ண தேவ இல்ல.",
+      "english": "You need not advise me."
+    },
+    {
+      "id": 51,
+      "tamil": "நான் இப்ப கெளம்பனும்.",
+      "english": "I have to leave now."
+    },
+    {
+      "id": 52,
+      "tamil": "ஒரு குழந்தைக்கு கூட அது தெரியும்.",
+      "english": "Even a child knows that."
+    },
+    {
+      "id": 53,
+      "tamil": "நான் எதுக்கு சொல்லணும்?",
+      "english": "Why should I tell?"
+    },
+    {
+      "id": 54,
+      "tamil": "அது உண்மையா கூட இருக்கலாம்.",
+      "english": "That may be true."
+    },
+    {
+      "id": 55,
+      "tamil": "அவன் யாரு-ன்னு எனக்கு தெரியாது.",
+      "english": "I don’t know who he is."
+    },
+    {
+      "id": 56,
+      "tamil": "அவன் எதையோ தேடிக்கொண்டு இருக்குறான்.",
+      "english": "He is looking for something."
+    },
+    {
+      "id": 57,
+      "tamil": "அவன் எதையோ தேடிக்கொண்டு இருந்தான்.",
+      "english": "He was looking for something."
+    },
+    {
+      "id": 58,
+      "tamil": "குழந்தை போல நடந்து கொள்ளாதே.",
+      "english": "Don’t behave like a child."
+    },
+    {
+      "id": 59,
+      "tamil": "நான் தப்பு பண்ண மாரி என்னையவே குத்தம் சொல்லு.",
+      "english": "You blame me as if I have done a mistake."
+    },
+    {
+      "id": 60,
+      "tamil": "அவன பத்இ-லாம் எனக்கு கவல இல்ல.",
+      "english": "I am not worried about him."
+    },
+    {
+      "id": 61,
+      "tamil": "அவள பத்இ-லாம் எனக்கு கவல இல்ல.",
+      "english": "I am not worried about her."
+    },
+    {
+      "id": 62,
+      "tamil": "அவங்கள பத்து-லாம் எனக்கு கவல இல்ல.",
+      "english": "I am not worried about them."
+    },
+    {
+      "id": 63,
+      "tamil": "என்மேல நம்பிக்க இல்ல-ன்னா போயி நீயே பாரு.",
+      "english": "If you don't believe me, go see for yourself."
+    },
+    {
+      "id": 64,
+      "tamil": "நான் DeogTALL முந்தாநேத்தே சொன்னேன்.",
+      "english": "I told you the day before yesterday."
+    },
+    {
+      "id": 65,
+      "tamil": "நீதான் என்ன பேசவே விடமாட்டிக்இற.",
+      "english": "You are not at all letting me to speak."
+    },
+    {
+      "id": 66,
+      "tamil": "நான் QUGLL பேசுனா உனக்கென்ன நஷ்டம்?",
+      "english": "What will you lose if I talk to her?"
+    },
+    {
+      "id": 67,
+      "tamil": "இதையா தேடிட்டு இருக்க?",
+      "english": "Is this what you are looking for?"
+    },
+    {
+      "id": 68,
+      "tamil": "இதை போல நடந்து கொள்ளாதே.",
+      "english": "Don’t behave like this."
+    },
+    {
+      "id": 69,
+      "tamil": "நான் சொல்றத நீ நம்புற-ல்ல?",
+      "english": "You believe what I am telling you, don’t you?"
+    },
+    {
+      "id": 70,
+      "tamil": "இங்க தனியா என்ன பண்ணிக்கிட்டு இருக்க?",
+      "english": "What are you doing here alone?"
+    },
+    {
+      "id": 71,
+      "tamil": "தப்பா எடுத்துக்காத. அவன் எல்லாத்துக்கிட்டையும் இப்புடிதான் பேசுவான்.",
+      "english": "Don’t take offence. He talks like that to everyone."
+    },
+    {
+      "id": 72,
+      "tamil": "நீ வர தேவையில்லை.",
+      "english": "You need not come."
+    },
+    {
+      "id": 73,
+      "tamil": "அவரு என்ன கொஞ்ச நேரம் WAIT பண்ண சொன்னாரு.",
+      "english": "He asked me to wait for a while."
+    },
+    {
+      "id": 74,
+      "tamil": "எங்க அம்மாதான் எப்புடி சமைக்கணும்-னு சொல்லி கொடுத்தாங்க.",
+      "english": "My mom taught me how to cook."
+    },
+    {
+      "id": 75,
+      "tamil": "அவன் முன்ன மாரி இல்ல.",
+      "english": "He is not like he used to be."
+    },
+    {
+      "id": 76,
+      "tamil": "அவ எப்பயுமே காலைல நேரமாவே எழுந்இருச்௪டுவா.",
+      "english": "She always gets up early in the morning."
+    },
+    {
+      "id": 77,
+      "tamil": "சும்மா உக்காந்துருக்காத.",
+      "english": "Don’t sit idle."
+    },
+    {
+      "id": 78,
+      "tamil": "நான் என்னோட FRIENDS-HISGerTL விளையாட போறேன்.",
+      "english": "I am going to play with my friends."
+    },
+    {
+      "id": 79,
+      "tamil": "இது உனக்கு தேவ இல்லாத விஷயம்.",
+      "english": "This is none of your business."
+    },
+    {
+      "id": 80,
+      "tamil": "அவரு சாப்ட போயிருக்காரு.",
+      "english": "He has gone for lunch."
+    },
+    {
+      "id": 81,
+      "tamil": "அவங்களுக்கு குழந்தை இல்ல.",
+      "english": "They don’t have any children."
+    },
+    {
+      "id": 82,
+      "tamil": "அவருக்கு குழந்தை இல்ல.",
+      "english": "He doesn’t have any children."
+    },
+    {
+      "id": 83,
+      "tamil": "ஏன் மூஞ்ச இப்புடி வச்௫ருக்க?",
+      "english": "Why do you keep your face like this?"
+    },
+    {
+      "id": 84,
+      "tamil": "இத நம்புறது கஷ்டம்-னு எனக்கு தெரியும். ஆனா இதுதான் உண்மை.",
+      "english": "I know it is difficult to believe, but it is the truth."
+    },
+    {
+      "id": 85,
+      "tamil": "சாப்பாட்ட இந்த மாஇரி waste பண்ணாத.",
+      "english": "Don’t waste food like this."
+    },
+    {
+      "id": 86,
+      "tamil": "TOALL இந்த orG fl பேசுற வேல வச்௫க்காத.",
+      "english": "Don’t talk to me like this."
+    },
+    {
+      "id": 87,
+      "tamil": "அவசரப்பட்டு எந்த முடிவையும் எடுக்காத.",
+      "english": "Don’t make any decisions in a hurry."
+    },
+    {
+      "id": 88,
+      "tamil": "அவன் நல்ல பையன் மா௫ரிதான் தெரியுறான்.",
+      "english": "He seems like a nice guy."
+    },
+    {
+      "id": 89,
+      "tamil": "எங்க போறது?",
+      "english": "Where to go?"
+    },
+    {
+      "id": 90,
+      "tamil": "எப்ப வர்றது?",
+      "english": "When to come?"
+    },
+    {
+      "id": 91,
+      "tamil": "அந்த மாதுரி நான் எதுவும் சொல்லல.",
+      "english": "I didn’t say anything like that."
+    },
+    {
+      "id": 92,
+      "tamil": "அங்க நான் 8 மணிக்குள்ள இருக்கணும்.",
+      "english": "I have to be there by 8 o’ clock."
+    },
+    {
+      "id": 93,
+      "tamil": "அவர எனக்கு 5 வருஷமா தெரியும்.",
+      "english": "I have known him for five years."
+    },
+    {
+      "id": 94,
+      "tamil": "வேற யாராவது இருக்குறாங்களா?",
+      "english": "Is there anyone else?"
+    },
+    {
+      "id": 95,
+      "tamil": "அவன் சொல்ற எல்லாத்தையும் நம்பாத.",
+      "english": "Don't believe everything he says."
+    },
+    {
+      "id": 96,
+      "tamil": "எனக்கு CUTASS கொஞ்சம் TIME கொடு.",
+      "english": "Give me some time to think."
+    },
+    {
+      "id": 97,
+      "tamil": "ஏன் அதே விஷயத்த தரும்ப இரும்ப கேக்குற?",
+      "english": "Why do you keep asking me the same thing?"
+    },
+    {
+      "id": 98,
+      "tamil": "உன்னால புரிஞ்சிக்க முடியலையா?",
+      "english": "Can’t you understand?"
+    },
+    {
+      "id": 99,
+      "tamil": "இந்த சாவியத்தான் தேடிக்கிட்டு QHSHun?",
+      "english": "Is this the key you are looking for?"
+    },
+    {
+      "id": 100,
+      "tamil": "சாவியை தொலைத்து விட்டேன்.",
+      "english": "I have lost my key."
+    },
+    {
+      "id": 101,
+      "tamil": "உன்னோட கோவத்த என்மேல காட்டாத.",
+      "english": "Don’t show your anger on me."
+    },
+    {
+      "id": 102,
+      "tamil": "அவன் சொல்றது பொய்.",
+      "english": "What he says is a lie."
+    },
+    {
+      "id": 103,
+      "tamil": "நான் சொன்னத யாருமே நம்பல.",
+      "english": "Nobody believed what I said."
+    },
+    {
+      "id": 104,
+      "tamil": "நீ கேட்டதால சொல்றேன்.",
+      "english": "Since you asked, I am telling it."
+    },
+    {
+      "id": 105,
+      "tamil": "எனக்கு உடல்நிலை சரியில்லை.",
+      "english": "I am not well."
+    },
+    {
+      "id": 106,
+      "tamil": "இதுக்கு முன்னாடி இவர பாத்துருக்கியா?",
+      "english": "Have you seen him before?"
+    },
+    {
+      "id": 107,
+      "tamil": "யாருமே என்ன புரிஞ்சிக்கல.",
+      "english": "Nobody understood me."
+    },
+    {
+      "id": 108,
+      "tamil": "எனக்கு சரியா ஞாபகம் இல்ல.",
+      "english": "I don’t remember exactly."
+    },
+    {
+      "id": 109,
+      "tamil": "நான் மத்தவங்க மாதுரி இல்ல.",
+      "english": "I am not like the others."
+    },
+    {
+      "id": 110,
+      "tamil": "இத UFHMSALA Hrroor என்ன பண்றது?",
+      "english": "What can I do with this?"
+    },
+    {
+      "id": 111,
+      "tamil": "சன்ன புள்ளத்தனமா இருக்காத.",
+      "english": "Don’t be childish."
+    },
+    {
+      "id": 112,
+      "tamil": "விருப்பம் உள்ளவங்க வரலாம்.",
+      "english": "Interested ones may come."
+    },
+    {
+      "id": 113,
+      "tamil": "விருப்பம் இருக்குறவங்க APPLY பண்ணலாம்.",
+      "english": "Interested ones may apply."
+    },
+    {
+      "id": 114,
+      "tamil": "அவள மறந்து தொல.",
+      "english": "You just forget her."
+    },
+    {
+      "id": 115,
+      "tamil": "நான் சொன்னத மறந்துறாத.",
+      "english": "Don’t forget what I told you."
+    },
+    {
+      "id": 116,
+      "tamil": "மழை பெய்ய போடறது என்று நினைக்கறேன்.",
+      "english": "I think it is going to rain."
+    },
+    {
+      "id": 117,
+      "tamil": "யாரும் எதுவும் சொல்லல.",
+      "english": "Nobody said anything."
+    },
+    {
+      "id": 118,
+      "tamil": "நீங்க வர்றதுக்கு முன்னாடிதான் அவரு போனாரு.",
+      "english": "He left just before you came."
+    },
+    {
+      "id": 119,
+      "tamil": "இதப்பத்து நீ யாருக்இட்டயும் சொல்லக்கூடாது.",
+      "english": "You should not tell anyone about this."
+    },
+    {
+      "id": 120,
+      "tamil": "உங்க அப்பா எங்க வேல பாக்குறாரு?",
+      "english": "Where does your father work?"
+    },
+    {
+      "id": 121,
+      "tamil": "உன்ன மாரி யாரையுமே நான் பாத்தது இல்ல.",
+      "english": "I have never seen anyone like you."
+    },
+    {
+      "id": 122,
+      "tamil": "அதெல்லாம் எதுக்கு நீ கேக்குற?",
+      "english": "Why are you asking all that?"
+    },
+    {
+      "id": 123,
+      "tamil": "யாராவது பார்க்இறார்களா?",
+      "english": "Is anyone looking?"
+    },
+    {
+      "id": 124,
+      "tamil": "என்ன ஒரே குஷியா இருக்க? என்ன விஷயம்?",
+      "english": "You seem to be excited, what is the matter?"
+    },
+    {
+      "id": 125,
+      "tamil": "நான் எதுக்கு அவன் இட்ட கெஞ்சனும்?",
+      "english": "Why should I beg him?"
+    },
+    {
+      "id": 126,
+      "tamil": "அவள் உன்னைத்தான் பார்க்கிறாள்.",
+      "english": "She is looking at you."
+    },
+    {
+      "id": 127,
+      "tamil": "அவன் உன்னைத்தான் பார்க் இறான்.",
+      "english": "He is looking at you."
+    },
+    {
+      "id": 128,
+      "tamil": "உனக்கு யாரையாவது அடையாளம் தெரியுதா?",
+      "english": "Do you recognize anyone?"
+    },
+    {
+      "id": 129,
+      "tamil": "எனக்கு யாரையுமே அடையாளம் தெரியல.",
+      "english": "I don’t recognize anyone."
+    },
+    {
+      "id": 130,
+      "tamil": "இன்னைக்கு நான் €க்இரமா போகணும்.",
+      "english": "I have to leave early today."
+    },
+    {
+      "id": 131,
+      "tamil": "கொஞ்சம் பொறுமையா இரு",
+      "english": "Have some patience."
+    },
+    {
+      "id": 132,
+      "tamil": "அவன் நேத்து வரைக்கு நல்லாதான் இருந்தான்.",
+      "english": "He was fine until yesterday."
+    },
+    {
+      "id": 133,
+      "tamil": "எவ்ளோ நேரம்தான் இப்புடியே உக்காந்து இருக்கறது?",
+      "english": "How long would I sit like this?"
+    },
+    {
+      "id": 134,
+      "tamil": "தப்பி தவறி கூட அத பண்ணிடாத.",
+      "english": "Don’t do that even by mistake."
+    },
+    {
+      "id": 135,
+      "tamil": "TOBMLL நீ எப்பயுமே பேசாத.",
+      "english": "Never talk to me. What you say has nothing to do with what I say."
+    },
+    {
+      "id": 136,
+      "tamil": "உன் இட்ட கேக்குறது என்னோட தப்பு.",
+      "english": "It is my mistake to ask you."
+    },
+    {
+      "id": 137,
+      "tamil": "நான் கத்துறது உனக்கு கேக்கலையா?",
+      "english": "Don’t you hear me shouting?"
+    },
+    {
+      "id": 138,
+      "tamil": "என்ன ௦௦ஙப5: பண்ணாத.",
+      "english": "Don’t confuse me."
+    },
+    {
+      "id": 139,
+      "tamil": "எனக்கே இது புரியல.",
+      "english": "I don’t even understand it."
+    },
+    {
+      "id": 140,
+      "tamil": "இது நான் நெனச்சத விட நல்லா இருக்கு.",
+      "english": "It is better than I thought."
+    },
+    {
+      "id": 141,
+      "tamil": "நான் அப்புடி சொல்ல வரல.",
+      "english": "I didn’t mean to say like that."
+    },
+    {
+      "id": 142,
+      "tamil": "அங்க ரொம்ப நேரம் இருக்காத.",
+      "english": "Don’t stay there too long."
+    },
+    {
+      "id": 143,
+      "tamil": "இங்க என்னதான் நடக்குது?",
+      "english": "What is happening here?"
+    },
+    {
+      "id": 144,
+      "tamil": "உனக்கு-ன்னா எல்லாமே செய்யுறான்.",
+      "english": "If it is for you, he does everything."
+    },
+    {
+      "id": 145,
+      "tamil": "ஆமாவ இல்லையா-ன்னு மட்டும் சொல்லு.",
+      "english": "Just say yes or no."
+    },
+    {
+      "id": 146,
+      "tamil": "யாருக்குட்ட கேக்குறதுன்னே தெரியல.",
+      "english": "I don’t know who to ask."
+    },
+    {
+      "id": 147,
+      "tamil": "HOMEWORK-.94 முடிச்சிட்டேன்.",
+      "english": "I have completed my homework."
+    },
+    {
+      "id": 148,
+      "tamil": "எப்ப எப்புடி பேசணும்-னு கத்துக்கோ.",
+      "english": "Learn when and how to talk."
+    },
+    {
+      "id": 149,
+      "tamil": "அத நீ மறந்தாலும். நான் மறக்கமாட்டேன்.",
+      "english": "Even if you forget it, I won’t forget."
+    },
+    {
+      "id": 150,
+      "tamil": "உன்ன எனக்கு யாருன்னே தெரியல.",
+      "english": "I don’t even know you."
+    },
+    {
+      "id": 151,
+      "tamil": "அவன எனக்கு யாருன்னே தெரியாது.",
+      "english": "I don’t even know him."
+    },
+    {
+      "id": 152,
+      "tamil": "அப்டில்லாம் ஒன்னும் இல்ல.",
+      "english": "Not like that."
+    },
+    {
+      "id": 153,
+      "tamil": "எதாவது சொல்லு.",
+      "english": "Say something."
+    },
+    {
+      "id": 154,
+      "tamil": "ஏன் இன்னைக்கு LATE-U?",
+      "english": "Why are you late today?"
+    },
+    {
+      "id": 155,
+      "tamil": "சொன்னாலும் புரிஞ்சிக்க மாட்டிக்கிறான்.",
+      "english": "He is not understanding even if I say."
+    },
+    {
+      "id": 156,
+      "tamil": "நான் என்ன அவ்ளோ அழகாவா இருக்கேன்?",
+      "english": "Am I that beautiful?"
+    },
+    {
+      "id": 157,
+      "tamil": "இத எல்லாத்துக்கிட்டயும் INFORM பண்ணிடு.",
+      "english": "Inform this to everyone."
+    },
+    {
+      "id": 158,
+      "tamil": "PHONE-9] QUCTHILL கொடு.",
+      "english": "Give the phone to him."
+    },
+    {
+      "id": 159,
+      "tamil": "PHONE-9] அவூ௫ட்ட கொடு.",
+      "english": "Give the phone to her."
+    },
+    {
+      "id": 160,
+      "tamil": "PHONE-9] உங்க அப்பா இட்ட கொடு.",
+      "english": "Give the phone to your father."
+    },
+    {
+      "id": 161,
+      "tamil": "PHONE-9) விஜய் இட்ட கொடு.",
+      "english": "Give the phone to Vijay."
+    },
+    {
+      "id": 162,
+      "tamil": "அவர எனக்கு ஏன்ன வயசுல இருந்தே தெரியும்.",
+      "english": "I have known him since my childhood."
+    },
+    {
+      "id": 163,
+      "tamil": "HAPPY யா இரு.",
+      "english": "Be happy."
+    },
+    {
+      "id": 164,
+      "tamil": "நீ அங்க போயிருக்கவே கூடாது.",
+      "english": "You should never have gone there."
+    },
+    {
+      "id": 165,
+      "tamil": "ஒரு நிமிஷம் இங்க வா.",
+      "english": "Come here for a minute."
+    },
+    {
+      "id": 166,
+      "tamil": "போயி குளி.",
+      "english": "Go and take a bath."
+    },
+    {
+      "id": 167,
+      "tamil": "இது F7SH)WGCW இல்ல.",
+      "english": "It is not possible."
+    },
+    {
+      "id": 168,
+      "tamil": "அவனுக்கு CALL பண்ணு.",
+      "english": "Call him."
+    },
+    {
+      "id": 169,
+      "tamil": "அவளுக்கு CALL பண்ணு.",
+      "english": "Call her."
+    },
+    {
+      "id": 170,
+      "tamil": "அது இங்க எங்கயாவது தான் இருக்கணும்.",
+      "english": "It must be here somewhere."
+    },
+    {
+      "id": 171,
+      "tamil": "அவனை இட்டாதே.",
+      "english": "Don’t scold him."
+    },
+    {
+      "id": 172,
+      "tamil": "குழந்தையை தூங்க வை.",
+      "english": "Put the baby to sleep."
+    },
+    {
+      "id": 173,
+      "tamil": "நான் நன்றாக இருக்குறேன்.",
+      "english": "I am good."
+    },
+    {
+      "id": 174,
+      "tamil": "எரியுற நெருப்புல எண்ணைய ஊத்தாத.",
+      "english": "Don’t add fuel to the fire."
+    },
+    {
+      "id": 175,
+      "tamil": "ஏன் இதைப்போல் செய்தாய்?",
+      "english": "Why did you do like this?"
+    },
+    {
+      "id": 176,
+      "tamil": "நீ அவ௫ட்ட இருந்து கொஞ்சம் தள்ளியே இருக்குறது நல்லது.",
+      "english": "It is better to stay away from her."
+    },
+    {
+      "id": 177,
+      "tamil": "என்இட்ட ௪ல்ற இல்ல.",
+      "english": "I don’t have any change."
+    },
+    {
+      "id": 178,
+      "tamil": "உனக்கு நான் எப்புடித்தான் புரிய வைக்இறது?",
+      "english": "How do I make you understand?"
+    },
+    {
+      "id": 179,
+      "tamil": "நகத்த கடிக்காத.",
+      "english": "Don’t bite your nails."
+    },
+    {
+      "id": 180,
+      "tamil": "சம்பளம் வாங்கனதும் உன்னோட பணத்த நான் GF HID கொடுத்துட்றேன்.",
+      "english": "I will return your money as soon as I get my salary."
+    },
+    {
+      "id": 181,
+      "tamil": "அதுல என்ன தப்பு இருக்கு?",
+      "english": "What is wrong in that?"
+    },
+    {
+      "id": 182,
+      "tamil": "உன்னோட கோவத்த கட்டுப்படுத்து.",
+      "english": "Control your anger."
+    },
+    {
+      "id": 183,
+      "tamil": "உன் இட்ட 500 ரூபாய்க்கு Flevm இருக்கா?",
+      "english": "Do you have change for 500 Rupees?"
+    },
+    {
+      "id": 184,
+      "tamil": "நீ என்ன செஞ்சாலும் சரி உன்னால அவன மாத்த முடியாது.",
+      "english": "Whatever you do, you won’t be able to change him."
+    },
+    {
+      "id": 185,
+      "tamil": "இதுதான் உன்னோட முடிவா?",
+      "english": "Is this your decision?"
+    },
+    {
+      "id": 186,
+      "tamil": "இப்ப நீ என்ன சொல்ல வர?",
+      "english": "What do you mean to say now?"
+    },
+    {
+      "id": 187,
+      "tamil": "என்ன நடக்கும்னு யாருக்கு தெரியும்?",
+      "english": "Who knows what will happen?"
+    },
+    {
+      "id": 188,
+      "tamil": "அவரோட வீட்டுக்கு எப்புடி போகணும்னு தெரியுமா?",
+      "english": "Do you know how to get his house?"
+    },
+    {
+      "id": 189,
+      "tamil": "எவ்ளோ நேரம் ஆகும்?",
+      "english": "How long will it take?"
+    },
+    {
+      "id": 190,
+      "tamil": "எனக்கு இன்னும் குழப்பமாகத்தான் இருக்இறது.",
+      "english": "I am still confused."
+    },
+    {
+      "id": 191,
+      "tamil": "போயி READY ஆகு.",
+      "english": "Go and get ready."
+    },
+    {
+      "id": 192,
+      "tamil": "இதைப்பற்றி யாருக்கும் தெரியக்கூடாது.",
+      "english": "Nobody should know about this."
+    },
+    {
+      "id": 193,
+      "tamil": "பேச்ச மாத்தாத.",
+      "english": "Don’t change the topic."
+    },
+    {
+      "id": 194,
+      "tamil": "நீங்க என்ன தப்பா புரிஞ்சக்கிட்டீங்க.",
+      "english": "You got me wrong."
+    },
+    {
+      "id": 195,
+      "tamil": "இத நீ யாருக்கஇட்டயும் சொல்லமாட்ட இல்ல?",
+      "english": "You will not tell this to anybody, will you?"
+    },
+    {
+      "id": 196,
+      "tamil": "நீங்க அதப்பத்து கண்டிப்பா கேள்விபட்டு இருப்பீங்க.",
+      "english": "You must have heard about that."
+    },
+    {
+      "id": 197,
+      "tamil": "நான் இப்பவே அங்க வரேன்.",
+      "english": "I will come there now itself."
+    },
+    {
+      "id": 198,
+      "tamil": "அவருக்கு உடல்நிலை சரியில்லை. அவர் மருத்துவமனையில் உள்ளார்.",
+      "english": "He is unwell. He is in the hospital."
+    },
+    {
+      "id": 199,
+      "tamil": "நான் கூப்புட்றது உனக்கு கேக்கலையா?",
+      "english": "Don’t you hear me calling?"
+    },
+    {
+      "id": 200,
+      "tamil": "நீ சொல்றது எனக்கு கேக்கல.",
+      "english": "I can’t hear you."
+    },
+    {
+      "id": 201,
+      "tamil": "இங்கயே இரு ஒரு நிமிஷத்துல வந்துட்றேன்.",
+      "english": "Stay right here, I’ll be back in a minute."
+    },
+    {
+      "id": 202,
+      "tamil": "அவர் என்னை ஒரு முறை கூட இட்டினது இல்லை.",
+      "english": "He never once scolded me."
+    },
+    {
+      "id": 203,
+      "tamil": "இது உனக்கு வேணாமா?",
+      "english": "Don’t you want this?"
+    },
+    {
+      "id": 204,
+      "tamil": "இதுவும் உனக்கு வேணாமா?",
+      "english": "Don’t you want this, either?"
+    },
+    {
+      "id": 205,
+      "tamil": "இதுக்கு முன்னாடி நீ எங்க படிச்ச?",
+      "english": "Where did you study before?"
+    },
+    {
+      "id": 206,
+      "tamil": "இதுக்கு முன்னாடி நீ எங்க WORK பண்ண?",
+      "english": "Where did you work before?"
+    },
+    {
+      "id": 207,
+      "tamil": "உனக்கு எப்புடி தெரியும்?",
+      "english": "How do you know?"
+    },
+    {
+      "id": 208,
+      "tamil": "எனக்கு எப்புடி தெரியும்?",
+      "english": "How do I know?"
+    }
+  ],
+  "book5": [
+    {
+      "id": 1,
+      "tamil": "இப்ப வருத்தப்பட்டு என்ன பிரயோஜனம்?",
+      "english": "What is use of feeling sorry now?"
+    },
+    {
+      "id": 2,
+      "tamil": "நீ அந்த மாஇரி பே௫ இருக்க கூடாது.",
+      "english": "You shouldn’t have talked like that."
+    },
+    {
+      "id": 3,
+      "tamil": "அவங்க எல்லாத்தையும் போயிட்டு நாளைக்கு வர சொல்லு.",
+      "english": "Tell them all to go and return tomorrow."
+    },
+    {
+      "id": 4,
+      "tamil": "எனக்கு அது பழக CuréS.",
+      "english": "I got used to it."
+    },
+    {
+      "id": 5,
+      "tamil": "அவனுக்கு ஒன்னும் இல்ல. அவன் நல்லாத்தான் இருக்கான்.",
+      "english": "He is fine. Nothing is wrong with him."
+    },
+    {
+      "id": 6,
+      "tamil": "உனக்கு புரிய வைக்க என்னால முடியாது.",
+      "english": "I can’t make you understand."
+    },
+    {
+      "id": 7,
+      "tamil": "கடன உடன வாங்இயாவது உன்னோட பணத்த SHUN கொடுத்துட்றேன்.",
+      "english": "I’ll take loan or do anything to repay you."
+    },
+    {
+      "id": 8,
+      "tamil": "2eoeALL பேனா இருக்கா?",
+      "english": "Do you have a pen?"
+    },
+    {
+      "id": 9,
+      "tamil": "சாப்பாடு பிரம்மாதம்.",
+      "english": "The food is delicious."
+    },
+    {
+      "id": 10,
+      "tamil": "TASTE ரொம்ப நல்லா இருக்கு.",
+      "english": "It tastes very good."
+    },
+    {
+      "id": 11,
+      "tamil": "பொறுமையை கடைபிடி.",
+      "english": "Follow patience."
+    },
+    {
+      "id": 12,
+      "tamil": "அவனே இப்ப கோவத்துல இருக்கான். அவன் இட்ட பேசாத.",
+      "english": "Now he is in anger. Don’t speak to him."
+    },
+    {
+      "id": 13,
+      "tamil": "உனக்கு வர விருப்பம் இல்ல-ன்னா OPEN-S சொல்லு.",
+      "english": "If you don’t like to come, say openly you don’t like to come."
+    },
+    {
+      "id": 14,
+      "tamil": "நீ செய்யுறது அடி முட்டாள்த்தனம்.",
+      "english": "What you are doing is utter nonsense."
+    },
+    {
+      "id": 15,
+      "tamil": "சரியான நேரம் பாத்து அவன்ட்ட நான் பேசுறேன்.",
+      "english": "I will speak to him at the right time."
+    },
+    {
+      "id": 16,
+      "tamil": "ஒரு விஷயம் மட்டும் என்னால உறுஇயா சொல்ல முடியும்.",
+      "english": "I can tell you one thing for sure."
+    },
+    {
+      "id": 17,
+      "tamil": "டென்ஷன் ஆகாத.",
+      "english": "Don’t get tense."
+    },
+    {
+      "id": 18,
+      "tamil": "உன்னோட SORRY-W தூக்இ குப்பையில போடு.",
+      "english": "Throw your sorry in the dustbin."
+    },
+    {
+      "id": 19,
+      "tamil": "எதுக்கு அவன் வந்தான்?",
+      "english": "Why did he come?"
+    },
+    {
+      "id": 20,
+      "tamil": "என்ன பண்ணனும்-னு உனக்கு சொல்லிட்டே இருக்கணுமா?",
+      "english": "Should I keep telling you what to do?"
+    },
+    {
+      "id": 21,
+      "tamil": "அடிக்கடி வெளியில சாப்டாத.",
+      "english": "Don’t eat out often."
+    },
+    {
+      "id": 22,
+      "tamil": "உன்டட்ட ஒன்னு சொல்லணும்-னு ஆசப்பட்றேன்.",
+      "english": "I want to tell you something."
+    },
+    {
+      "id": 23,
+      "tamil": "உன்டட்ட ஒன்னு சொல்லணும்.",
+      "english": "I have to tell you something."
+    },
+    {
+      "id": 24,
+      "tamil": "குழந்தைங்க தான விடு.",
+      "english": "They are just children. Just leave it."
+    },
+    {
+      "id": 25,
+      "tamil": "உன்ன நான் மறக்கவே மாட்டேன்.",
+      "english": "I will never forget you."
+    },
+    {
+      "id": 26,
+      "tamil": "இப்பெல்லாம் எனக்கு TIME கெடைக்கறதே இல்ல.",
+      "english": "I don’t get time these days."
+    },
+    {
+      "id": 27,
+      "tamil": "இல்ல எனக்கு வேணாம்.",
+      "english": "No, I don’t want it."
+    },
+    {
+      "id": 28,
+      "tamil": "அதோ அங்க இருக்குற 8001-அ எடுத்துட்டு வா.",
+      "english": "Bring the book which is over there."
+    },
+    {
+      "id": 29,
+      "tamil": "எப்பொழுது உன்னுடைய பிறந்த நாள்?",
+      "english": "When is your birthday?"
+    },
+    {
+      "id": 30,
+      "tamil": "இது ஒன்னும் என்னோட தப்பு இல்ல.",
+      "english": "This is not my fault."
+    },
+    {
+      "id": 31,
+      "tamil": "இது ஒன்னும் உன்னோட தப்பு இல்ல.",
+      "english": "This is not your fault."
+    },
+    {
+      "id": 32,
+      "tamil": "என்னோட FRIENDS முன்னாடி என்ன அவமான படுத்தாத.",
+      "english": "Don’t insult me in front of my friends."
+    },
+    {
+      "id": 33,
+      "tamil": "ஒன்னும் இல்லாத விஷயத்துக்கு ஏன் இப்புடி டென்ஷன் ஆகுற?",
+      "english": "Why are you getting tensed for nothing?"
+    },
+    {
+      "id": 34,
+      "tamil": "இவன் ஏன் இப்புடி பண்றான்?",
+      "english": "Why does he do like this?"
+    },
+    {
+      "id": 35,
+      "tamil": "இத நாளைக்குள்ள முடிச்ஒரு.",
+      "english": "Complete it by tomorrow."
+    },
+    {
+      "id": 36,
+      "tamil": "வா சாப்டலாம்.",
+      "english": "Come, Let’s eat."
+    },
+    {
+      "id": 37,
+      "tamil": "அந்த மாதுரி பண்ணாத.",
+      "english": "Don’t do like that."
+    },
+    {
+      "id": 38,
+      "tamil": "இதுதான் எழுந்திருக்கிற நேரமா?",
+      "english": "Is this the time to get up?"
+    },
+    {
+      "id": 39,
+      "tamil": "இதுக்குமேல என்னால முழிச்சிட்டு இருக்க முடியாது.",
+      "english": "I can’t stay awake any longer."
+    },
+    {
+      "id": 40,
+      "tamil": "இந்த தப்ப நான் இரும்பவும் பண்ணமாட்டேன்.",
+      "english": "I won't make this mistake again."
+    },
+    {
+      "id": 41,
+      "tamil": "என்னோட வாழ்க்கைய நான் விரும்புன மாஇுரி வாழ முடியல.",
+      "english": "I couldn’t live my life how I liked."
+    },
+    {
+      "id": 42,
+      "tamil": "வீட்லயே இருக்குறது BORE அடிக்குது.",
+      "english": "Staying at home is boring."
+    },
+    {
+      "id": 43,
+      "tamil": "எவ்ளோ நேரம் படிச்ச?",
+      "english": "How long did you study?"
+    },
+    {
+      "id": 44,
+      "tamil": "நல்லா தூங்குனியா?",
+      "english": "Did you sleep well?"
+    },
+    {
+      "id": 45,
+      "tamil": "அவருக்கட்ட இரும்பவும் என்னால பொய் சொல்ல முடியாது.",
+      "english": "I can't lie to him again."
+    },
+    {
+      "id": 46,
+      "tamil": "உன்இட்ட இரும்ப நான் பொய் சொல்லமாட்டேன்.",
+      "english": "I won't lie to you again."
+    },
+    {
+      "id": 47,
+      "tamil": "அடுத்த வாரம் ஞாயிற்றுக்கிழமை என்னை வந்து பார்.",
+      "english": "Come and see me on Sunday next week."
+    },
+    {
+      "id": 48,
+      "tamil": "இந்த படத்த நான் ஏற்கனவே பாத்துருக்கேன்-ன்னு நெனைக்குறேன்.",
+      "english": "I think I have seen this movie before."
+    },
+    {
+      "id": 49,
+      "tamil": "நான் எதுக்கு பொய் சொல்லணும்?",
+      "english": "Why should I tell a lie?"
+    },
+    {
+      "id": 50,
+      "tamil": "என்னோட கோவத்த கெளராத.",
+      "english": "Don’t provoke me."
+    },
+    {
+      "id": 51,
+      "tamil": "நான் OFFICE-6U இருக்கேன்.",
+      "english": "I am at office."
+    },
+    {
+      "id": 52,
+      "tamil": "உன்டட்ட ஒரு முக்கியமான விஷயம் சொல்லணும்.",
+      "english": "I have something important to tell you."
+    },
+    {
+      "id": 53,
+      "tamil": "அவ்ளோதான் என்னால பண்ண முடியும்.",
+      "english": "That’s all I can do."
+    },
+    {
+      "id": 54,
+      "tamil": "ஒருவேள நான் LATE ஆயிட்டேன்-னா நீ கெளம்பிறு.",
+      "english": "In case I am late, you just leave."
+    },
+    {
+      "id": 55,
+      "tamil": "இந்த WATCH எவ்ளோ?",
+      "english": "How much is this watch?"
+    },
+    {
+      "id": 56,
+      "tamil": "வரணும்னு ஆசப்பட்றவங்க வரலாம்.",
+      "english": "Those who wish to come, may come."
+    },
+    {
+      "id": 57,
+      "tamil": "என்ன நடந்துருக்கு-ன்னு போயி நீயே பாரு.",
+      "english": "Go and see for yourself what has happened."
+    },
+    {
+      "id": 58,
+      "tamil": "அவனோட நச்சரிப்பு என்னால தாங்க முடியல.",
+      "english": "I can’t bear his nagging."
+    },
+    {
+      "id": 59,
+      "tamil": "இந்த ௦8₹55-அ எப்ப வாங்குன?",
+      "english": "When did you buy this dress?"
+    },
+    {
+      "id": 60,
+      "tamil": "நான் உன்கூட இருக்கும்போது உனக்கென்ன கவல?",
+      "english": "Why do you bother when I am with you?"
+    },
+    {
+      "id": 61,
+      "tamil": "சீக்கிரமா எழுது.",
+      "english": "Write it quickly."
+    },
+    {
+      "id": 62,
+      "tamil": "அதெல்லாம் என்னால சொல்ல முடியாது.",
+      "english": "I can’t say all that."
+    },
+    {
+      "id": 63,
+      "tamil": "உன்ன சுத்து என்ன நடக்குதுன்னே உனக்கு தெரியல.",
+      "english": "You don’t know what goes on around you."
+    },
+    {
+      "id": 64,
+      "tamil": "என்னால என்ன பண்ண முடியுமோ பண்றேன்.",
+      "english": "What I can do, I will do."
+    },
+    {
+      "id": 65,
+      "tamil": "போட்டியில யாரு ஜெயிச்சது?",
+      "english": "Who won the competition?"
+    },
+    {
+      "id": 66,
+      "tamil": "அங்க அவ தனியா போறதுக்கு பயப்பட்றா.",
+      "english": "She is afraid of going there alone."
+    },
+    {
+      "id": 67,
+      "tamil": "உனக்கு புரிய வைக்க என்னால முடியாது.",
+      "english": "I can’t make you understand."
+    },
+    {
+      "id": 68,
+      "tamil": "உன்டட்ட பேனா இருக்கா?",
+      "english": "Do you have a pen?"
+    },
+    {
+      "id": 69,
+      "tamil": "அழுவுற புள்ளதான் பால் குடிக்கும்.",
+      "english": "Only a crying baby will drink milk."
+    },
+    {
+      "id": 70,
+      "tamil": "யாரு அப்புடி சொன்னா?",
+      "english": "Who said like that?"
+    },
+    {
+      "id": 71,
+      "tamil": "எதுக்கு இப்ப அழுவுற?",
+      "english": "Why are you crying now?"
+    },
+    {
+      "id": 72,
+      "tamil": "நீ குண்டாயிட்டே வர.",
+      "english": "You are getting fat."
+    },
+    {
+      "id": 73,
+      "tamil": "நீ யாரப்பத்து பே௫ுட்டு இருக்குற?",
+      "english": "Who are you talking about?"
+    },
+    {
+      "id": 74,
+      "tamil": "நீ கவலையே படாத.",
+      "english": "Don’t worry at all."
+    },
+    {
+      "id": 75,
+      "tamil": "எனக்கு TIME சரியில்ல-ன்னு நெனைக்குறேன்.",
+      "english": "I think my time is not good."
+    },
+    {
+      "id": 76,
+      "tamil": "நீ சொல்ற விதம் சரியில்ல.",
+      "english": "The way you say is not right."
+    },
+    {
+      "id": 77,
+      "tamil": "TV REMOTE எங்க இருக்கு?",
+      "english": "Where is the TV remote?"
+    },
+    {
+      "id": 78,
+      "tamil": "LATE ஆகுதா உனக்கு?",
+      "english": "Is it getting late for you?"
+    },
+    {
+      "id": 79,
+      "tamil": "எனக்கு உன்மேல நம்பிக்க இருக்கு.",
+      "english": "I believe in you."
+    },
+    {
+      "id": 80,
+      "tamil": "அவன் ரொம்ப பே௫ட்டு இருக்கான்.",
+      "english": "He is talking too much."
+    },
+    {
+      "id": 81,
+      "tamil": "வீட்டுக்கு போயி சேந்துட்டியா?",
+      "english": "Have you reached home?"
+    },
+    {
+      "id": 82,
+      "tamil": "இத நான் எஇர்பாக்கல.",
+      "english": "I didn’t expect this."
+    },
+    {
+      "id": 83,
+      "tamil": "நானும் இத எ௫ர்பாக்கல.",
+      "english": "I didn’t expect this, too."
+    },
+    {
+      "id": 84,
+      "tamil": "என்ன அவசரம்?",
+      "english": "What is the hurry?"
+    },
+    {
+      "id": 85,
+      "tamil": "அவரு இல்ல-ன்னு சொல்லிட்டாரு.",
+      "english": "He said no."
+    },
+    {
+      "id": 86,
+      "tamil": "நான் என்னோட முடிவ LOTS HHS மாட்டேன்.",
+      "english": "I won’t change my decision."
+    },
+    {
+      "id": 87,
+      "tamil": "NIGHT TIME-6U எனக்கு CALL பண்ணாத.",
+      "english": "Don't call me at night."
+    },
+    {
+      "id": 88,
+      "tamil": "என்ன தப்பா எடுத்துக்க வேண்டாம்.",
+      "english": "Don't get me wrong."
+    },
+    {
+      "id": 89,
+      "tamil": "பொறுத்தஇுருந்து என்ன நடக்குது-ன்னு பாப்போம்.",
+      "english": "Let us just wait and see what happens."
+    },
+    {
+      "id": 90,
+      "tamil": "நம்மால் வேறு என்ன செய்ய முடியும்?",
+      "english": "What else we can do?"
+    },
+    {
+      "id": 91,
+      "tamil": "உன்னால பாரு நெறைய பேரு கஷ்ட்டபட்றாங்க.",
+      "english": "Many are suffering because of you."
+    },
+    {
+      "id": 92,
+      "tamil": "நீ எப்பவேணும்னாலும் என்ன வந்து பாரு.",
+      "english": "Come and see me any time you like."
+    },
+    {
+      "id": 93,
+      "tamil": "எதுக்கெடுத்தாலும் சண்ட போடாத.",
+      "english": "Don’t fight about everything."
+    },
+    {
+      "id": 94,
+      "tamil": "உனக்கு இந்த COLOUR புடிச்சிருக்கா?",
+      "english": "Do you like this colour?"
+    },
+    {
+      "id": 95,
+      "tamil": "வேற யாராவது உன்கூட வராங்களா?",
+      "english": "Is anybody else coming with you?"
+    },
+    {
+      "id": 96,
+      "tamil": "இதெல்லாம் எங்க போயி சொல்றதுன்னே தெரியல.",
+      "english": "I don’t know where to go and tell all this."
+    },
+    {
+      "id": 97,
+      "tamil": "அப்பா, உங்கள பாக்க யாரோ ஒருத்தங்க வந்துருக்காங்க.",
+      "english": "Appa, there is someone here to see you."
+    },
+    {
+      "id": 98,
+      "tamil": "ஆறுவதற்கு முன் சாப்பிட்டுவிடு.",
+      "english": "Eat it before it gets cold."
+    },
+    {
+      "id": 99,
+      "tamil": "உன்ன சந்துச்ச நாள என்னால மறக்க முடியாது.",
+      "english": "I can’t forget the day I met you."
+    },
+    {
+      "id": 100,
+      "tamil": "இரு நான் உன்ன DROP பண்றேன்.",
+      "english": "Let me drop you."
+    },
+    {
+      "id": 101,
+      "tamil": "உனக்கு இட்றதுக்கு நான்தான் கெடச்சனா?",
+      "english": "Did you find only me to scold?"
+    },
+    {
+      "id": 102,
+      "tamil": "உன்இட்ட எவ்ளோ பணம் இருக்கு?",
+      "english": "How much money do you have?"
+    },
+    {
+      "id": 103,
+      "tamil": "நான் ரொம்ப பா5₹ா-ஆ இருக்கேன்.",
+      "english": "I am very upset now."
+    },
+    {
+      "id": 104,
+      "tamil": "அவன் இவ்ளோ சந்தோஷமா இருந்து நான் பாத்ததே இல்ல.",
+      "english": "I have never seen him so happy."
+    },
+    {
+      "id": 105,
+      "tamil": "இப்பவே உன்ன நான் பாக்கணும்.",
+      "english": "I want to see you right now."
+    },
+    {
+      "id": 106,
+      "tamil": "நீ பேசாம இருந்தா நல்லது.",
+      "english": "It is better if you don’t talk."
+    },
+    {
+      "id": 107,
+      "tamil": "அவனுக்கு PHONE பண்ணி இங்க வர சொல்லு.",
+      "english": "Call him and ask him to come here."
+    },
+    {
+      "id": 108,
+      "tamil": "நான் உனக்கு சொல்லணுமா? உனக்கே தெரியாதா?",
+      "english": "Do I have to tell you? Don’t you know yourself?"
+    },
+    {
+      "id": 109,
+      "tamil": "படத்துக்கு போலாமா?",
+      "english": "Shall we go for a movie?"
+    },
+    {
+      "id": 110,
+      "tamil": "எனக்கு இது ரொம்ப பிடிச்ருக்கு.",
+      "english": "I like it a lot."
+    },
+    {
+      "id": 111,
+      "tamil": "ஏன் இப்புடி நடந்துக்குற?",
+      "english": "Why are you behaving like this?"
+    },
+    {
+      "id": 112,
+      "tamil": "வீட்ட விட்டு கெளம்பறதுக்கு முன்னாடி GAS OFF பண்ண மறந்துறாத.",
+      "english": "Don’t forget to turn off the gas before you leave the house."
+    },
+    {
+      "id": 113,
+      "tamil": "| GeorrTL. PHONE NUMBER cTeoT GILL. இல்ல.",
+      "english": "I don’t have his phone number."
+    },
+    {
+      "id": 114,
+      "tamil": "அவளோட PHONE NUMBER ereor இட்ட இல்ல.",
+      "english": "I don’t have her phone number."
+    },
+    {
+      "id": 115,
+      "tamil": "LATE SLUI@ EH. நான் வீட்டுக்கு போகணும்.",
+      "english": "It’s late. I have to go home."
+    },
+    {
+      "id": 116,
+      "tamil": "நேரம் இடைத்துிருந்தால் நான் வந்திருப்பேன்.",
+      "english": "I would have come if there had been time."
+    },
+    {
+      "id": 117,
+      "tamil": "நேரம் இடைத்தால் வருஇறேன்.",
+      "english": "I will come if there is time."
+    },
+    {
+      "id": 118,
+      "tamil": "தூங்இக்கொண்டு இருக்இறானா அவன்?",
+      "english": "Is he sleeping?"
+    },
+    {
+      "id": 119,
+      "tamil": "அந்த பொண்ணு ரொம்ப தஇுயிறா பேசுது.",
+      "english": "She speaks very arrogantly."
+    },
+    {
+      "id": 120,
+      "tamil": "இருட்டு வேற கட்டுது. வா வீட்டுக்கு போலாம்.",
+      "english": "It is getting dark. Let’s go home."
+    },
+    {
+      "id": 121,
+      "tamil": "நீ தெரிஞ்௪க்க வேண்டியது நெறைய இருக்கு.",
+      "english": "There is a lot you need to know."
+    },
+    {
+      "id": 122,
+      "tamil": "அவன அறையணும் போல இருந்துச்சு எனக்கு.",
+      "english": "I felt like slapping him."
+    },
+    {
+      "id": 123,
+      "tamil": "எனக்கு அவள புடிக்கல.",
+      "english": "I don’t like her."
+    },
+    {
+      "id": 124,
+      "tamil": "எனக்கு அவன புடிக்கல.",
+      "english": "I don’t like him."
+    },
+    {
+      "id": 125,
+      "tamil": "அவரு வந்து கேட்டா என்ன சொல்லுவ நீ?",
+      "english": "What will you say if he comes and asks you?"
+    },
+    {
+      "id": 126,
+      "tamil": "இந்த விஷயத்த உனக்குள்ளேயே வச்சிக்கோ.",
+      "english": "Keep this matter to yourself."
+    },
+    {
+      "id": 127,
+      "tamil": "உன்னோட இஷ்டப்படி செய்.",
+      "english": "Do as you like."
+    },
+    {
+      "id": 128,
+      "tamil": "உனக்கு எது வேணும்னாலும் வாங்்இக்கோ.",
+      "english": "Buy anything you want."
+    },
+    {
+      "id": 129,
+      "tamil": "கதவ பூட்டிட்டியா?",
+      "english": "Have you locked the door?"
+    },
+    {
+      "id": 130,
+      "tamil": "கொஞ்ச நேரம் உன்னோட வாய மூடிட்டு இருக்குறியா?",
+      "english": "Will you keep your mouth shut?"
+    },
+    {
+      "id": 131,
+      "tamil": "முடிச்ச பிறகு சொல்லு.",
+      "english": "Tell me after completing."
+    },
+    {
+      "id": 132,
+      "tamil": "என்னால நெனச்௫ கூட பாக்க முடியல.",
+      "english": "I can’t even imagine it."
+    },
+    {
+      "id": 133,
+      "tamil": "PURSE-9] எடுத்துட்டு வர மறந்துட்டேன்.",
+      "english": "I forgot to bring my purse."
+    },
+    {
+      "id": 134,
+      "tamil": "நான் சொல்றத கூட அவ கேக்க ONL selon",
+      "english": "Even she doesn’t listen to me."
+    },
+    {
+      "id": 135,
+      "tamil": "அந்த பையனும் வரானா?",
+      "english": "Is that boy coming, too?"
+    },
+    {
+      "id": 136,
+      "tamil": "என்ன மத்தவங்க கூட COMPARE பண்ணாத.",
+      "english": "Don’t compare me with others."
+    },
+    {
+      "id": 137,
+      "tamil": "எப்ப-ன்னு கேட்டியா?",
+      "english": "Did you ask when?"
+    },
+    {
+      "id": 138,
+      "tamil": "அவன் ரொம்ப ரோஷக்காரன்.",
+      "english": "He is a very stubborn man."
+    },
+    {
+      "id": 139,
+      "tamil": "இந்த கஷ்டம்-லாம் உனக்கு தேவையா?",
+      "english": "Is this trouble necessary for you?"
+    },
+    {
+      "id": 140,
+      "tamil": "இதோ வந்துட்றேன் இரு.",
+      "english": "I will come back in a moment."
+    },
+    {
+      "id": 141,
+      "tamil": "ஏன் எதுவும் பேசாம அமையா இருக்க?",
+      "english": "Why do you remain silent?"
+    },
+    {
+      "id": 142,
+      "tamil": "அவசரபடாத.",
+      "english": "Don’t hurry."
+    },
+    {
+      "id": 143,
+      "tamil": "எனக்கு ஒன்னும் அவசரம் இல்ல.",
+      "english": "I am not in a hurry."
+    },
+    {
+      "id": 144,
+      "tamil": "இவ எதுக்கு இந்த நேரத்துல PHONE பண்றா?",
+      "english": "Why is she calling me at this hour?"
+    },
+    {
+      "id": 145,
+      "tamil": "இவன் எதுக்கு இந்த நேரத்துல PHONE பண்றான்?",
+      "english": "Why is he calling me at this hour?"
+    },
+    {
+      "id": 146,
+      "tamil": "அவனுக்கு எப்ப எப்புடி பேசணும்னே தெரியல.",
+      "english": "He doesn’t know when and how to talk."
+    },
+    {
+      "id": 147,
+      "tamil": "குழந்தைகளை அவள் சரியாக வளர்ப்பதில்லை.",
+      "english": "She doesn’t raise her kids properly."
+    },
+    {
+      "id": 148,
+      "tamil": "தலையால அடிச்௪க்கஇட்டேன், கேட்டான அவன்?",
+      "english": "I warned him, did he listen to me?"
+    },
+    {
+      "id": 149,
+      "tamil": "இத வச்௫க்கிட்டு நான் என்ன பண்றது?",
+      "english": "What will I do with it?"
+    },
+    {
+      "id": 150,
+      "tamil": "உன்ன அப்பவே நான் போக சொன்னேன், இன்னும் என்ன இங்க பண்ற?",
+      "english": "I told you to go long time back, why are you still here?"
+    },
+    {
+      "id": 151,
+      "tamil": "நான் உன்ன அங்க போக சொல்லி 2 மணி நேரம் ஆகுது.",
+      "english": "It has been two hours since I told you to go there."
+    },
+    {
+      "id": 152,
+      "tamil": "இப்ப நீ வரியா இல்லையா?",
+      "english": "Now, are you coming or not?"
+    },
+    {
+      "id": 153,
+      "tamil": "உன்ன புரிஞ்௪க்கறதுக்கே ரொம்ப கஷ்டமா இருக்கு.",
+      "english": "I find it very hard to understand you."
+    },
+    {
+      "id": 154,
+      "tamil": "அதெல்லாம் மனசுல வச்௫க்காத.",
+      "english": "Don’t take all that to your heart."
+    },
+    {
+      "id": 155,
+      "tamil": "உன்னோட நல்ல மனசுக்கு, எந்த ஒரு கெட்ட விஷயமும் நடக்காது.",
+      "english": "For your good heart, nothing bad will happen to you."
+    },
+    {
+      "id": 156,
+      "tamil": "முதலில் போய் கை கழுவி விட்டு வா.",
+      "english": "Go and wash your hands first."
+    },
+    {
+      "id": 157,
+      "tamil": "இதெல்லாம் ஒரு பெருமையா?",
+      "english": "Is that anything to feel proud of?"
+    },
+    {
+      "id": 158,
+      "tamil": "உனக்கு தெரியாதது நெறைய இருக்கு.",
+      "english": "There is a lot you don’t know."
+    },
+    {
+      "id": 159,
+      "tamil": "சந்தேகம் வரும்போது என் இட்ட கேளு.",
+      "english": "Ask me when in doubt."
+    },
+    {
+      "id": 160,
+      "tamil": "இதுதான் வேலைக்கு வர நேரமா?",
+      "english": "Is this the time to come to work?"
+    },
+    {
+      "id": 161,
+      "tamil": "நல்லா சாப்புடு.",
+      "english": "Eat well."
+    },
+    {
+      "id": 162,
+      "tamil": "என்னோட இன்னொரு SHOE-6 காணோம்.",
+      "english": "I can’t find my other shoe."
+    },
+    {
+      "id": 163,
+      "tamil": "சும்மா அதையே கேட்டு என்ன வெறுப்பேத்தாத.",
+      "english": "Don’t irritate me by repeatedly asking it."
+    },
+    {
+      "id": 164,
+      "tamil": "பரிட்ச-லாம் நல்லா எழுது இருக்இயா?",
+      "english": "Have you done the exams well?"
+    },
+    {
+      "id": 165,
+      "tamil": "அவன் வீட்ல சும்மா தான் இருக்கான்.",
+      "english": "He is idle at home."
+    },
+    {
+      "id": 166,
+      "tamil": "நீ சொல்றது நூத்துக்கு நூறு உண்மை.",
+      "english": "You are 100 percent right."
+    },
+    {
+      "id": 167,
+      "tamil": "நான் சொல்றததான் செய்வேன். செய்யறத தான் சொல்லுவேன்.",
+      "english": "I only do what I say and say what I do."
+    },
+    {
+      "id": 168,
+      "tamil": "நான் சொல்றத ஒரு நிமிஷம் கேளு.",
+      "english": "Listen to me for a minute."
+    },
+    {
+      "id": 169,
+      "tamil": "இதெல்லாம் நம்புற மாஇரியா இருக்கு?",
+      "english": "Is this believable?"
+    },
+    {
+      "id": 170,
+      "tamil": "அவளோட PHONE SWITCH OFF - &U இருக்கு.",
+      "english": "Her phone is switched off."
+    },
+    {
+      "id": 171,
+      "tamil": "எனக்கு URGENT-94, ஒரு MEETING இருக்கு. நான் இப்ப போய் ஆகணும்.",
+      "english": "I have a very urgent meeting. I have to go now."
+    },
+    {
+      "id": 172,
+      "tamil": "முருகன் இன்னைக்கு லீவு.",
+      "english": "Murugan is on leave today."
+    },
+    {
+      "id": 173,
+      "tamil": "எவ்ளோ நேரம் ஆனாலும் பரவாயில்லை. நான் WAIT பண்றேன்.",
+      "english": "It is okay even if it takes long time. I’ll wait."
+    },
+    {
+      "id": 174,
+      "tamil": "விடு. ஏதோ தெரியாம நடந்துருச்௪.",
+      "english": "You just leave it. It happened by mistake."
+    },
+    {
+      "id": 175,
+      "tamil": "எனக்கு இதுவும் வேணும். இன்னமும் வேணும்.",
+      "english": "I deserve this and more."
+    },
+    {
+      "id": 176,
+      "tamil": "பாவம் பாக்குறது ஒரு குத்தமா?",
+      "english": "Is it a crime to take a pity?"
+    },
+    {
+      "id": 177,
+      "tamil": "இது ஒரு தப்பா?",
+      "english": "Is this a mistake?"
+    },
+    {
+      "id": 178,
+      "tamil": "அவன் பாக்குறதுக்கு நல்லவன் மாஇுரிதான் தெரியுறான்.",
+      "english": "He seems to be a good person."
+    },
+    {
+      "id": 179,
+      "tamil": "நான் ஒன்னும் உன்இட்ட பேசல.",
+      "english": "I am not talking to you."
+    },
+    {
+      "id": 180,
+      "tamil": "அவன் ரொம்ப CUTE-9) இருக்கான் இல்ல.",
+      "english": "He is very cute, no?"
+    },
+    {
+      "id": 181,
+      "tamil": "கண்டிப்பா உனக்கு நான் HELP பண்றேன்.",
+      "english": "I will surely help you."
+    },
+    {
+      "id": 182,
+      "tamil": "ஏன் அவ௫ூட்ட பேச மாட்ற?",
+      "english": "Why are you not talking to her?"
+    },
+    {
+      "id": 183,
+      "tamil": "அவன் ரொம்ப இறமையானவன்.",
+      "english": "He is a very talented person."
+    },
+    {
+      "id": 184,
+      "tamil": "இத புரிஞ்சிக்குறதுக்கு எனக்கு கஷ்டமா இருக்கு.",
+      "english": "It is hard for me to understand this."
+    },
+    {
+      "id": 185,
+      "tamil": "நான் அவனுக்கு புரிய வைக்இறேன்.",
+      "english": "I will make him understand."
+    },
+    {
+      "id": 186,
+      "tamil": "என்னால அத மறக்கவே முடியாது.",
+      "english": "I can never forget it."
+    }
+  ]
+}
