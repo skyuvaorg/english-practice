@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useMemo, useCallback } from "react";
+import { useState, useEffect, useMemo, useCallback, useRef } from "react";
 import data from "./data.json";
 
 type Sentence = {
@@ -24,6 +24,21 @@ export default function Home() {
   const [filter, setFilter] = useState<Filter>("all");
   const [showAll, setShowAll] = useState(false);
   const [mounted, setMounted] = useState(false);
+  const [headerHeight, setHeaderHeight] = useState(0);
+  const headerRef = useRef<HTMLElement>(null);
+
+  useEffect(() => {
+    if (headerRef.current) {
+      const ro = new ResizeObserver((entries) => {
+        for (const entry of entries) {
+          setHeaderHeight(entry.contentRect.height);
+        }
+      });
+      ro.observe(headerRef.current);
+      setHeaderHeight(headerRef.current.offsetHeight);
+      return () => ro.disconnect();
+    }
+  }, []);
 
   useEffect(() => {
     const saved = localStorage.getItem("learnedCards");
@@ -117,13 +132,6 @@ export default function Home() {
     setLearnedCards(next);
   };
 
-  const handleStop = () => {
-    handleHideAll();
-    setSearchQuery("");
-    setFilter("all");
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  };
-
   const isRevealed = (s: Sentence) =>
     showAll || revealedCards.has(`${activeBook}-${s.id}`);
 
@@ -146,7 +154,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-[#0f1117]">
       {/* Header */}
-      <header className="sticky top-0 z-50 bg-[#151823] border-b border-gray-800 shadow-lg">
+      <header ref={headerRef} className="sticky top-0 z-50 bg-[#151823] border-b border-gray-800 shadow-lg">
         <div className="max-w-7xl mx-auto px-4 py-3">
           <div className="flex flex-col sm:flex-row sm:items-center gap-3">
             {/* Logo and title */}
@@ -201,20 +209,16 @@ export default function Home() {
               >
                 Hide all
               </button>
-              <button
-                onClick={handleStop}
-                className="px-3 py-2 bg-red-600 hover:bg-red-700 text-white text-xs font-medium rounded-lg transition-colors flex items-center gap-1 whitespace-nowrap"
-              >
-                <span className="w-2 h-2 rounded-full bg-white inline-block" />
-                Stop
-              </button>
             </div>
           </div>
         </div>
       </header>
 
       {/* Book tabs and filters */}
-      <div className="sticky top-[76px] z-40 bg-[#131620] border-b border-gray-800">
+      <div
+        className="sticky z-40 bg-[#131620] border-b border-gray-800"
+        style={{ top: headerHeight }}
+      >
         <div className="max-w-7xl mx-auto px-4 py-2">
           {/* Book tabs */}
           <div className="flex flex-wrap items-center gap-2 mb-2">
